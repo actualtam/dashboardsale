@@ -8,8 +8,8 @@ const BASE_URL = `https://api.telegram.org/bot${BOT_TOKEN}`;
 const FILE_BASE_URL = `https://api.telegram.org/file/bot${BOT_TOKEN}`;
 const IMAGES_DIR = path.join(process.cwd(), 'public', 'images', 'hardware');
 
-const BASE_DOMAIN = 'https://scoring-contests-blog-viewers.trycloudflare.com';
-const MINI_APP_URL = `${BASE_DOMAIN}/dashboardsale.html`;
+const BASE_DOMAIN = 'https://actualtam.github.io/dashboardsale';
+const MINI_APP_URL = `${BASE_DOMAIN}/index.html`;
 const MINI_APP_EQUIPMENT_URL = `${BASE_DOMAIN}/market.html`;
 const SERVICE_TG_SHOP_URL = `${BASE_DOMAIN}/services-tg-shop.html`;
 const SERVICE_ONLINE_URL = `${BASE_DOMAIN}/services-online-store.html`;
