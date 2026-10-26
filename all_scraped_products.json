@@ -1,0 +1,2819 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "1b1a9271-577b-46b2-a73d-4627cfab1ce3",
+    "name": "56*15mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/0194ac48-bd10-455e-9f92-38899230ee0f.webp"
+    ],
+    "description": "1 O‘lchami : 56mm 2 Miqdori : 15m 3 Qog‘oz turi : terma Chek qog‘oz 4 Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/1b1a9271-577b-46b2-a73d-4627cfab1ce3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/1b1a9271-577b-46b2-a73d-4627cfab1ce3",
+    "local_images": [
+      "/images/hardware/1b1a9271-577b-46b2-a73d-4627cfab1ce3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "81e6c01d-bac3-424b-9eab-b22ed876b201",
+    "name": "58*60mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/daeac5e5-233a-4246-8c2a-1b3016f38ebb.webp"
+    ],
+    "description": "O‘lchami : 58*60 Miqdori : 550 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 25000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/81e6c01d-bac3-424b-9eab-b22ed876b201",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/81e6c01d-bac3-424b-9eab-b22ed876b201",
+    "local_images": [
+      "/images/hardware/81e6c01d-bac3-424b-9eab-b22ed876b201_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ac9a676f-b833-48d1-8f8e-011426b23951",
+    "name": "40*20mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/2e1425ea-3222-4431-90da-e93c2846859d.webp"
+    ],
+    "description": "O‘lchami : 40*20 Miqdori : 1500 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 20000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ac9a676f-b833-48d1-8f8e-011426b23951",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ac9a676f-b833-48d1-8f8e-011426b23951",
+    "local_images": [
+      "/images/hardware/ac9a676f-b833-48d1-8f8e-011426b23951_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "042c5641-77ca-4a96-ad22-a4c8bb6e4d83",
+    "name": "Zebra ZT411",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/8d2deb4e-0d5a-4101-a85a-f9750ba3c5ee.webp"
+    ],
+    "description": "1. Ulanish interfeyslari: USB + LAN + RS-232 2. Chop etish kengligi: 110 mm 3. Bosib chiqarish tezligi: 356 mm/sek 4. Ruxsat: 300 dpi (12 nuqta/mm)",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 16300000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/042c5641-77ca-4a96-ad22-a4c8bb6e4d83",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/042c5641-77ca-4a96-ad22-a4c8bb6e4d83",
+    "local_images": [
+      "/images/hardware/042c5641-77ca-4a96-ad22-a4c8bb6e4d83_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "fca42733-9c08-4c0d-b473-b6635a7d146f",
+    "name": "Interaktiv sensorli doska dyuym-65\" PREMIUM",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/771285e9-dcfc-44a0-af55-89659b367cf3.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 2200 MHz 6. Qo‘shimcha funksiyasi: NFC karta orqali bir nechta akkauntlar o‘rtasida tezkor o‘tish funksiyasi",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 11000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/fca42733-9c08-4c0d-b473-b6635a7d146f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/fca42733-9c08-4c0d-b473-b6635a7d146f",
+    "local_images": [
+      "/images/hardware/fca42733-9c08-4c0d-b473-b6635a7d146f_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "78d38ef8-a38b-4652-be34-ef02636aac3b",
+    "name": "LPS-27",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/04791828-12e4-47c2-9fe2-68e6e86843ea.webp"
+    ],
+    "description": "1. Protsessor: i5-8 CPU @1.80GHz 2. Ekran diagonali: 21\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6300000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/78d38ef8-a38b-4652-be34-ef02636aac3b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/78d38ef8-a38b-4652-be34-ef02636aac3b",
+    "local_images": [
+      "/images/hardware/78d38ef8-a38b-4652-be34-ef02636aac3b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "8c1a829d-a476-4d20-8e91-9f7dbb352c57",
+    "name": "405-10",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/80333494-5f62-44bc-b811-a65476e56072.webp"
+    ],
+    "description": "1 Pul uchun 10 ta bo‘lim – maksimal samaradorlik uchun 2 Mexanizm: plastmassadan 3 Metall korpus",
+    "category": "Pul qutisi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/8c1a829d-a476-4d20-8e91-9f7dbb352c57",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/8c1a829d-a476-4d20-8e91-9f7dbb352c57",
+    "local_images": [
+      "/images/hardware/8c1a829d-a476-4d20-8e91-9f7dbb352c57_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "20c4a5b6-57ef-4f6b-9b28-e50177823e8a",
+    "name": "Mobil planshet  27\"",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/3097002f-e39b-4252-a0d0-92ba5d931139.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5dd2a192-4746-47ec-b7aa-9041addeb961.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 1920×1080 (2K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Yorqinlik — 350 kd/m² 5. Android — 13",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 7076000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/20c4a5b6-57ef-4f6b-9b28-e50177823e8a",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/20c4a5b6-57ef-4f6b-9b28-e50177823e8a",
+    "local_images": [
+      "/images/hardware/20c4a5b6-57ef-4f6b-9b28-e50177823e8a_0.webp",
+      "/images/hardware/20c4a5b6-57ef-4f6b-9b28-e50177823e8a_1.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "0121c9db-dfec-4969-bd2a-6aaacbbd0819",
+    "name": "LPS-24",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5d1e1bd5-6f5f-4495-8811-2e82d6905c15.webp"
+    ],
+    "description": "1. Protsessor: i5-6 CPU @2.40GHz 2. Ekran diagonali: 24\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5600000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/0121c9db-dfec-4969-bd2a-6aaacbbd0819",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/0121c9db-dfec-4969-bd2a-6aaacbbd0819",
+    "local_images": [
+      "/images/hardware/0121c9db-dfec-4969-bd2a-6aaacbbd0819_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "a3a7ca1c-a833-4ee9-a72a-c8583ecdd708",
+    "name": "Interaktiv sensorli doska dyuym-75\"",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ab488e65-b032-4350-a705-311a39f87218.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Qo‘llab-quvvatlash: Bluetooth va Wi-Fi 6. Protsessor chastotasi: 1800 MHz",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 10500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/a3a7ca1c-a833-4ee9-a72a-c8583ecdd708",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/a3a7ca1c-a833-4ee9-a72a-c8583ecdd708",
+    "local_images": [
+      "/images/hardware/a3a7ca1c-a833-4ee9-a72a-c8583ecdd708_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "87257c98-e200-4202-bd93-fb22af57f778",
+    "name": "100*100mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/925580ca-30d4-45e5-8a62-6ac384e19baf.webp"
+    ],
+    "description": "O‘lchami : 100*70 Miqdori : 550 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 90000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/87257c98-e200-4202-bd93-fb22af57f778",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/87257c98-e200-4202-bd93-fb22af57f778",
+    "local_images": [
+      "/images/hardware/87257c98-e200-4202-bd93-fb22af57f778_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "22590d30-7aee-4f15-ad23-2fa9e82bed93",
+    "name": "Telejka 150L",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ce88c97b-f885-47fd-92ca-c141883a7522.webp"
+    ],
+    "description": "⚙️Nima uchun aynan bizning aravachalar: 1 Mustahkam metall – zanglamaydi 2 Og‘ir yuklarga bardoshli 3 G‘ildiraklari oson harakatlanadi 4 Kengligi - 53sm uzunligi - 67sm chuqurligi - 48sm",
+    "category": "Telejka",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1586000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/22590d30-7aee-4f15-ad23-2fa9e82bed93",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/22590d30-7aee-4f15-ad23-2fa9e82bed93",
+    "local_images": [
+      "/images/hardware/22590d30-7aee-4f15-ad23-2fa9e82bed93_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "97391be7-eb0d-4927-bef8-ce879a211993",
+    "name": "LPS-040",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/af1f03ea-b8e2-470e-897f-9845608a7b99.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: Intel Core i5- 8 avlod CPU 2. Ekran diagonali: 15 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 10 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5158700,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/97391be7-eb0d-4927-bef8-ce879a211993",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/97391be7-eb0d-4927-bef8-ce879a211993",
+    "local_images": [
+      "/images/hardware/97391be7-eb0d-4927-bef8-ce879a211993_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7617a5b2-6684-4b1e-9ad0-056b33d5378e",
+    "name": "Speakerphone  ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/0d8bf8f8-2185-4e29-9426-41e3de4a0450.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 3000 mA·soat sig‘imli o‘rnatilgan batareya 10 soatgacha ishlashni ta’minlaydi. 2 Aniq sozlangan Hi-Fi dinamik yuqori sifatli ovoz beradi. 3 Simsiz ulanish moduli turli qurilmalarga ulanadi. 4 6 ta mikrofon ovozni 10 metrgacha qabul qiladi. 5 Dinamika tovush balandligini avtomatik ravishda muvozanatlashtiradi.",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7617a5b2-6684-4b1e-9ad0-056b33d5378e",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7617a5b2-6684-4b1e-9ad0-056b33d5378e",
+    "local_images": [
+      "/images/hardware/7617a5b2-6684-4b1e-9ad0-056b33d5378e_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "80fe06a7-7189-4f07-b2c3-20706589627d",
+    "name": "DT008",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/aa3fd90d-9b1f-4e87-ae61-f42615fb380c.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. Diametri: 75 × 35 mm",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/80fe06a7-7189-4f07-b2c3-20706589627d",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/80fe06a7-7189-4f07-b2c3-20706589627d",
+    "local_images": [
+      "/images/hardware/80fe06a7-7189-4f07-b2c3-20706589627d_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "304a3f47-500e-465e-9cbe-26b1bbd07f08",
+    "name": "Telejka 125L",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/da2f2491-a333-4185-9900-545c017cbee6.webp"
+    ],
+    "description": "⚙️Nima uchun aynan bizning aravachalar: 1 Mustahkam metall – zanglamaydi 2 Og‘ir yuklarga bardoshli 3 G‘ildiraklari oson harakatlanadi 4 Kengligi - 48sm uzunligi - 65sm chuqurligi - 45sm",
+    "category": "Telejka",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1342000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/304a3f47-500e-465e-9cbe-26b1bbd07f08",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/304a3f47-500e-465e-9cbe-26b1bbd07f08",
+    "local_images": [
+      "/images/hardware/304a3f47-500e-465e-9cbe-26b1bbd07f08_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "c8e595e6-6cb3-4471-8e5b-1ae074aca99e",
+    "name": "LPS-313  15.6",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/94abb321-d9b2-415f-9a89-6e9cf0d844cd.webp"
+    ],
+    "description": "1 Protsessor: Intel Core i7 (4-avlod) – 2.40 GHz 2 Ekran: 15.6 dyuym 3 Xotira: 8GB operativ + 128GB SSD 4 Tizim: Windows 10 PRO 5 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/c8e595e6-6cb3-4471-8e5b-1ae074aca99e",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/c8e595e6-6cb3-4471-8e5b-1ae074aca99e",
+    "local_images": [
+      "/images/hardware/c8e595e6-6cb3-4471-8e5b-1ae074aca99e_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ef41df81-cc0a-4dc1-980c-fecd21e8d81b",
+    "name": "43*25mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/eed57bed-99fd-4715-bf06-35dab65d93e5.webp"
+    ],
+    "description": "O‘lchami : 43*25 Miqdori : 1500 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 24000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ef41df81-cc0a-4dc1-980c-fecd21e8d81b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ef41df81-cc0a-4dc1-980c-fecd21e8d81b",
+    "local_images": [
+      "/images/hardware/ef41df81-cc0a-4dc1-980c-fecd21e8d81b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "acc4ce01-48d5-4b01-82ea-b312b73d2dd3",
+    "name": "Tablo",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5e6ae024-0260-4cf4-9971-3d4b255683f3.webp"
+    ],
+    "description": "1. Ulanadigan knopkalar soni: 1000 tagacha 2. Signal uzatish masofasi: ochiq joyda 300 metr 3. Ko‘rsatkich: Raqamli LED displey",
+    "category": "Chaqiriv tizimi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 780000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/acc4ce01-48d5-4b01-82ea-b312b73d2dd3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/acc4ce01-48d5-4b01-82ea-b312b73d2dd3",
+    "local_images": [
+      "/images/hardware/acc4ce01-48d5-4b01-82ea-b312b73d2dd3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "cce262b0-f3da-4744-ae89-a0ebb61ef30b",
+    "name": "30*20mm Красный зеленый желтый",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ce06b8e7-f8b1-4f8b-9049-bfa17f2ee7be.webp"
+    ],
+    "description": "O‘lchami : 30*20 Miqdori : 1500 Qog‘oz turi : terma qog‘oz Rangi : Qizil yashil sariq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 20000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/cce262b0-f3da-4744-ae89-a0ebb61ef30b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/cce262b0-f3da-4744-ae89-a0ebb61ef30b",
+    "local_images": [
+      "/images/hardware/cce262b0-f3da-4744-ae89-a0ebb61ef30b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "5f7de56c-d671-4722-9f04-eb48a9d0a613",
+    "name": "AM001",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/7ca8e959-887a-421e-9014-53f9da3cbb5c.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. O‘lchamlari: 45 × 10 mm",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 375,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/5f7de56c-d671-4722-9f04-eb48a9d0a613",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/5f7de56c-d671-4722-9f04-eb48a9d0a613",
+    "local_images": [
+      "/images/hardware/5f7de56c-d671-4722-9f04-eb48a9d0a613_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "33b1d8b1-d88e-4e35-b002-033450412886",
+    "name": "XP-D230H",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/eacc42ed-5339-4cfa-9b12-4c63cb4b7bcc.webp"
+    ],
+    "description": "1 Bosib chiqarish tezligi: 230 mm/sek 2 Qog'oz kengligi: 80 mm 3 Buyruqlar tizimi: ESC/POS bilan. mos keladi 4 Interfeys: USB+LAN",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/33b1d8b1-d88e-4e35-b002-033450412886",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/33b1d8b1-d88e-4e35-b002-033450412886",
+    "local_images": [
+      "/images/hardware/33b1d8b1-d88e-4e35-b002-033450412886_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ad0fa761-36fd-47de-a9e7-816d0fc951aa",
+    "name": "OPS-modul i7  (13-avlod)",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/219739bf-954c-4f6d-a11a-c1b3fd3ed8d1.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Operatsion tizim: Windows 10 Pro 2. Protsessor: Intel® Core™ i7 (13-avlod) 3. Tezligi: 1.80-2.30GHz 4. DDR4 operativ xotira: 8 GB 5. SSD xotira: 256 GB 6. Ulanish: Wi-Fi va Bluetooth 7. Portlar: USB 3.0 x4 ,USB 2.0 x2 , LAN , SPK , MIC , HDMI , VGA",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 4880000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ad0fa761-36fd-47de-a9e7-816d0fc951aa",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ad0fa761-36fd-47de-a9e7-816d0fc951aa",
+    "local_images": [
+      "/images/hardware/ad0fa761-36fd-47de-a9e7-816d0fc951aa_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "757c60dd-e16f-4626-bfad-b29b80fc024c",
+    "name": "LPS-58IIT",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/46508131-db88-4fc5-93b7-2d31a57d98c8.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 Bosib chiqarish tezligi: 90 mm/sek 2 Qog'oz kengligi: 58 mm 3 Bosib chiqarish zichligi: 203 nuqta/satr 4 Interfeys: USB",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 270000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/757c60dd-e16f-4626-bfad-b29b80fc024c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/757c60dd-e16f-4626-bfad-b29b80fc024c",
+    "local_images": [
+      "/images/hardware/757c60dd-e16f-4626-bfad-b29b80fc024c_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "6fd9e56d-c223-4e4c-9b89-f2246a5cda1d",
+    "name": "LPS-9500OQ DUAL",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/186696f9-2627-4b1d-b46d-fad821f9774d.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/41d8d674-acaf-48c9-aa50-fc37df382174.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: Intel Core i5- 6 avlod CPU 2. Ekran diagonali: 15.6 +11.3 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 10 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5490000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/6fd9e56d-c223-4e4c-9b89-f2246a5cda1d",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/6fd9e56d-c223-4e4c-9b89-f2246a5cda1d",
+    "local_images": [
+      "/images/hardware/6fd9e56d-c223-4e4c-9b89-f2246a5cda1d_0.webp",
+      "/images/hardware/6fd9e56d-c223-4e4c-9b89-f2246a5cda1d_1.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "c6d47d78-e757-4206-b2ea-61987d1119f3",
+    "name": "Elektron taroz ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/a8487a34-7593-4c6d-a6c5-bf61f164bd1d.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Boshqaruv panelida RS232 / LAN / USB / WIFI 2. Maksimal sig‘imi: 15KG / 30KG 3. Qog‘oz kengligi: 58 mm 4. Minimal qiymat: 1,000,000 so‘m 5. Valyuta: so‘m",
+    "category": "Taroz",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5124000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/c6d47d78-e757-4206-b2ea-61987d1119f3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/c6d47d78-e757-4206-b2ea-61987d1119f3",
+    "local_images": [
+      "/images/hardware/c6d47d78-e757-4206-b2ea-61987d1119f3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "fd855520-9192-4974-8d56-0ec9319e3826",
+    "name": "40*30mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/adb2595d-b05a-4847-af99-e0246e06d7a8.webp"
+    ],
+    "description": "O‘lchami : 40*30 Miqdori : 600 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 12000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/fd855520-9192-4974-8d56-0ec9319e3826",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/fd855520-9192-4974-8d56-0ec9319e3826",
+    "local_images": [
+      "/images/hardware/fd855520-9192-4974-8d56-0ec9319e3826_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "f5ccfa80-d29d-4375-8f2d-1606b5a02b7f",
+    "name": "Speakerphone  ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/a4faf74a-31b8-41a7-87e4-539351f67971.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 Qamrov maydoni: <40㎡ 2 Mikrofon tutish masofasi: 5 m 3 Bluetooth ulanish: Bluetooth 5.0 | HA 4 Batareya sig‘imi: 2400mAh 5 Ishlash vaqti: 6–9 soat",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2440000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/f5ccfa80-d29d-4375-8f2d-1606b5a02b7f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/f5ccfa80-d29d-4375-8f2d-1606b5a02b7f",
+    "local_images": [
+      "/images/hardware/f5ccfa80-d29d-4375-8f2d-1606b5a02b7f_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "960dda59-4282-4f81-883a-ca6d0e8ecf7c",
+    "name": "MHT-58C",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5884ed1e-ded7-49e8-8fe2-d059cd0eb248.webp"
+    ],
+    "description": "1 Print tehnologiyasi: To’g’ri termo 2 Echim halqasi: 203dpi 3 Chop etish tezligi: 90mm/sek 4 Chop etish kengligi: 58 mm Interfeyslar: USB",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 287000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/960dda59-4282-4f81-883a-ca6d0e8ecf7c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/960dda59-4282-4f81-883a-ca6d0e8ecf7c",
+    "local_images": [
+      "/images/hardware/960dda59-4282-4f81-883a-ca6d0e8ecf7c_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "e231762d-632d-420c-b918-ff6919cbb205",
+    "name": "Kranshteyn",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/0aa1012e-224a-4d44-aabf-aba9ba35f8e0.webp"
+    ],
+    "description": "1 Metalldan yasalgan 2 Maksimal yuk: 35 kg",
+    "category": "Stend",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 312000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/e231762d-632d-420c-b918-ff6919cbb205",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/e231762d-632d-420c-b918-ff6919cbb205",
+    "local_images": [
+      "/images/hardware/e231762d-632d-420c-b918-ff6919cbb205_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ad517abf-865d-4cee-808a-6ae2ca5a6554",
+    "name": "LPS-414",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/f6abf28c-8d0e-4855-8e23-b0aaea7be76e.webp"
+    ],
+    "description": "1 Bosib chiqarish tezligi: 127 mm/sek 2 Qog‘oz kengligi: 80 mm 3 Bosib chiqarish zichligi: 203 nuqta/satr 4 Interfeys: USB 5 Ikkala turdagi qog‘ozda chop etadi – shtrixkodli qog‘oz va chek qog‘ozi",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ad517abf-865d-4cee-808a-6ae2ca5a6554",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ad517abf-865d-4cee-808a-6ae2ca5a6554",
+    "local_images": [
+      "/images/hardware/ad517abf-865d-4cee-808a-6ae2ca5a6554_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "a4cc224b-3e0c-4ebf-8dfd-97ea3402b5a4",
+    "name": "2200",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/e9ef45e2-1d80-4c9f-a75c-fb296310af2f.webp"
+    ],
+    "description": "1. Skanerlash tezligi: 1,2m/s. 2. Skanerlash texnologiyasi: 2D 3. Batareya: NiMH batareyalari 2300 mA / s 4. Ulanish turi: USB + Bluetooth",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/a4cc224b-3e0c-4ebf-8dfd-97ea3402b5a4",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/a4cc224b-3e0c-4ebf-8dfd-97ea3402b5a4",
+    "local_images": [
+      "/images/hardware/a4cc224b-3e0c-4ebf-8dfd-97ea3402b5a4_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "23e3dc56-e9d2-4758-bfc0-37fa508be5b3",
+    "name": "LPS-9500OQ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/87dcf5fe-9369-4aa3-9036-0cf7b76a4d04.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: Intel Core i5- 12 avlod CPU 2. Ekran diagonali: 15.6 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 10 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6510000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/23e3dc56-e9d2-4758-bfc0-37fa508be5b3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/23e3dc56-e9d2-4758-bfc0-37fa508be5b3",
+    "local_images": [
+      "/images/hardware/23e3dc56-e9d2-4758-bfc0-37fa508be5b3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "4e1458cd-98ea-46ce-a6fb-1ae4f1de0be6",
+    "name": "LPS-156E",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/bbb4222c-e4ff-41fc-9af6-75bace7badff.webp"
+    ],
+    "description": "1. Protsessor: i5-6 CPU @2.60GHz 2. Ekran diagonali: 15.6\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Ekran Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/4e1458cd-98ea-46ce-a6fb-1ae4f1de0be6",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/4e1458cd-98ea-46ce-a6fb-1ae4f1de0be6",
+    "local_images": [
+      "/images/hardware/4e1458cd-98ea-46ce-a6fb-1ae4f1de0be6_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "121854a9-f19d-4475-be04-60817a8ae4b3",
+    "name": "Interaktiv sensorli doska dyuym-65\"",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/22a180f9-1835-4902-b1bd-2f9774a703a0.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 1800 MHz",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 8000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/121854a9-f19d-4475-be04-60817a8ae4b3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/121854a9-f19d-4475-be04-60817a8ae4b3",
+    "local_images": [
+      "/images/hardware/121854a9-f19d-4475-be04-60817a8ae4b3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "fcfffee8-d6a3-43a5-a8c6-bb8675a0434e",
+    "name": "58*40mm Yashil",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/aa2852fe-cc01-42e4-9018-ab67eb9f47f1.webp"
+    ],
+    "description": "1 O‘lchami : 58*40 2 Miqdori : 550 3 Qog‘oz turi : terma qog‘oz 4 Rangi :yashil",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 20000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/fcfffee8-d6a3-43a5-a8c6-bb8675a0434e",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/fcfffee8-d6a3-43a5-a8c6-bb8675a0434e",
+    "local_images": [
+      "/images/hardware/fcfffee8-d6a3-43a5-a8c6-bb8675a0434e_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "4f6d4d44-abd7-4984-8b46-7ac38cd59150",
+    "name": "Stend",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/b61e8394-147c-49a9-bebf-db58c0a57651.webp"
+    ],
+    "description": "1 Metalldan yasalgan asos 2 Chek printer – 1 dona 3 Skaner – 2 dona 4 Klaviatura – 1 dona 5 Terminal – 1 dona 6 Monoblok – 2 dona",
+    "category": "Stend",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/4f6d4d44-abd7-4984-8b46-7ac38cd59150",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/4f6d4d44-abd7-4984-8b46-7ac38cd59150",
+    "local_images": [
+      "/images/hardware/4f6d4d44-abd7-4984-8b46-7ac38cd59150_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7a5cd285-eec7-46f5-b535-ee152d310b3b",
+    "name": "BE010",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/6e05d2be-ee78-400b-9ac6-9534c1dcd1fc.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. O‘lchamlari: 230 × 19 × 55 mm 3. Kuydirish balandligi: 7 – 12 sm",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1875000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7a5cd285-eec7-46f5-b535-ee152d310b3b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7a5cd285-eec7-46f5-b535-ee152d310b3b",
+    "local_images": [
+      "/images/hardware/7a5cd285-eec7-46f5-b535-ee152d310b3b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "aa555cf7-c1d4-48f5-bc71-992eaf9300f8",
+    "name": "LPS-17D",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/451406f2-5e7f-4743-80ac-b425c37aedd6.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c2881e2b-8012-4419-b92b-0ea06784803b.webp"
+    ],
+    "description": "1. Protsessor: Intel Core i5-12 avlod CPU 2. Ekran diagonali: 17\" + 11.6\" qo‘shimcha ekran 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 11 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 7900000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/aa555cf7-c1d4-48f5-bc71-992eaf9300f8",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/aa555cf7-c1d4-48f5-bc71-992eaf9300f8",
+    "local_images": [
+      "/images/hardware/aa555cf7-c1d4-48f5-bc71-992eaf9300f8_0.webp",
+      "/images/hardware/aa555cf7-c1d4-48f5-bc71-992eaf9300f8_1.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "6fa5074e-e595-48c8-bc1e-e6ec2bf5b2dd",
+    "name": "ES120",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/29c999af-4027-4b5f-a026-9fd2625731ae.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. Aniqlash kengligi: 120 ~ 240 sm 3. Quvvat sarfi: 60 Vt 4. Olchamlari: 1560x400 5. Ovozli va yorug‘lik signalizatsiyasi",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/6fa5074e-e595-48c8-bc1e-e6ec2bf5b2dd",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/6fa5074e-e595-48c8-bc1e-e6ec2bf5b2dd",
+    "local_images": [
+      "/images/hardware/6fa5074e-e595-48c8-bc1e-e6ec2bf5b2dd_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "85a77631-9262-4d23-bcff-c8c325ac5fcc",
+    "name": "LPS-80TS",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/3ec5a41a-8a50-4c90-b3dd-b503d6617e2b.webp"
+    ],
+    "description": "1 Bosib chiqarish tezligi: 200 mm/sek 2 Qog'oz kengligi: 80 mm 3 Bosib chiqarish zichligi: 203 nuqta/satr 4 Interfeys: USB",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 435000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/85a77631-9262-4d23-bcff-c8c325ac5fcc",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/85a77631-9262-4d23-bcff-c8c325ac5fcc",
+    "local_images": [
+      "/images/hardware/85a77631-9262-4d23-bcff-c8c325ac5fcc_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "26aeb281-c9c5-4d9a-8225-1293ec3a6795",
+    "name": "LPS-1514 i3-6",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d70cacfa-458b-4761-ae69-0c0b4203639f.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: i3-6 2. Ekran diagonali: 15\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2928000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/26aeb281-c9c5-4d9a-8225-1293ec3a6795",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/26aeb281-c9c5-4d9a-8225-1293ec3a6795",
+    "local_images": [
+      "/images/hardware/26aeb281-c9c5-4d9a-8225-1293ec3a6795_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "1b0846b3-f0c5-4fd3-b42d-a7cbf0c3ec49",
+    "name": "LPS-175",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c31669b9-09f4-4010-aa1b-83c0ef7a0a9d.webp"
+    ],
+    "description": "1. Protsessor: i5-12 CPU 2. Ekran diagonali: 17\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6250000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/1b0846b3-f0c5-4fd3-b42d-a7cbf0c3ec49",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/1b0846b3-f0c5-4fd3-b42d-a7cbf0c3ec49",
+    "local_images": [
+      "/images/hardware/1b0846b3-f0c5-4fd3-b42d-a7cbf0c3ec49_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "c3f8a35a-2570-4332-a2ff-e02643764719",
+    "name": "405-MK",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/84952e15-0cce-4a75-99be-d8ac350772b6.webp"
+    ],
+    "description": "1. Pul uchun 4 ta keng va qulay bo‘lim mavjud. 2. Tangalar uchun 8 ta alohida maxsus joy mavjud. 3. Mexanizm – Mexanizm: plastmassadan 4. Korpusi – to‘liq metall materialdan tayyorlangan, yuqori darajadagi mustahkamlik va uzoq xizmat muddati uchun.",
+    "category": "Pul qutisi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 690000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/c3f8a35a-2570-4332-a2ff-e02643764719",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/c3f8a35a-2570-4332-a2ff-e02643764719",
+    "local_images": [
+      "/images/hardware/c3f8a35a-2570-4332-a2ff-e02643764719_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b08f702e-0a8a-4459-ae5e-f730751fbe06",
+    "name": "Interaktiv sensorli doska dyuym-86\" PREMIUM+",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/749702e2-77d7-480c-a178-144dc7e19083.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 256 GB 4. DDR operativ xotira: 16 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 2300 MHz 6. Qo‘shimcha funksiyasi: NFC karta orqali bir nechta akkauntlar o‘rtasida tezkor o‘tish funksiyasi 7. Xavfsizlik: barmoq izi skaneri (fingerprint) 8. Kamera : 8 megapiksell",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 20000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b08f702e-0a8a-4459-ae5e-f730751fbe06",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b08f702e-0a8a-4459-ae5e-f730751fbe06",
+    "local_images": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/749702e2-77d7-480c-a178-144dc7e19083.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "87f41a23-b1cf-4176-bf32-441c87c95b4b",
+    "name": "58*40mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/1608cb71-11bc-437d-b172-821943df8e8f.webp"
+    ],
+    "description": "O‘lchami : 58*40 Miqdori : 550 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 14000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/87f41a23-b1cf-4176-bf32-441c87c95b4b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/87f41a23-b1cf-4176-bf32-441c87c95b4b",
+    "local_images": [
+      "/images/hardware/87f41a23-b1cf-4176-bf32-441c87c95b4b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "bb397407-b16f-44b8-9a95-f9d96a2bdd8a",
+    "name": "ZD888TA 203",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c47520a4-606e-447c-a7ec-9fea6c5ee0a2.webp"
+    ],
+    "description": "1 Ruxsat (DPI): 203 dpi 2 Chop etish kengligi: 104 mm 3 Chop etish tezligi 152 mm/sek 4 Uzoq muddat ishlaydigan termogolovka",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2250000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/bb397407-b16f-44b8-9a95-f9d96a2bdd8a",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/bb397407-b16f-44b8-9a95-f9d96a2bdd8a",
+    "local_images": [
+      "/images/hardware/bb397407-b16f-44b8-9a95-f9d96a2bdd8a_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7ee2d68e-7388-46fe-9919-7daed888220f",
+    "name": "LPS-313",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/68f296d8-78a0-43d7-87de-351f352c3788.webp"
+    ],
+    "description": "1 Protsessor: Intel Core i7 (4-avlod) – 2.40 GHz 2 Ekran: 15 dyuym 3 Xotira: 8GB operativ + 128GB SSD 4 Tizim: Windows 10 PRO 5 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3375000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7ee2d68e-7388-46fe-9919-7daed888220f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7ee2d68e-7388-46fe-9919-7daed888220f",
+    "local_images": [
+      "/images/hardware/7ee2d68e-7388-46fe-9919-7daed888220f_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "2ce5d0e2-9471-41b7-b8f2-1d1f91aa2c58",
+    "name": " Interaktiv sensorli doska dyuym-98\" PREMIUM",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d393b439-66d6-404f-9b63-b46ee026938d.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 2300 MHz",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 26000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/2ce5d0e2-9471-41b7-b8f2-1d1f91aa2c58",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/2ce5d0e2-9471-41b7-b8f2-1d1f91aa2c58",
+    "local_images": [
+      "/images/hardware/2ce5d0e2-9471-41b7-b8f2-1d1f91aa2c58_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "d826b492-a542-421f-b59e-0c8b44c601ff",
+    "name": "Shtrih-M",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/05ef2482-e1b7-4b7c-81c6-1e4d9115f803.webp"
+    ],
+    "description": "1. Maksimal tortish chegarasi-15 kg 2. Og'irlikning eng kichik chegarasi-40 g 3 Qo'llash sohasi-Qadoqlash, hisoblagich 4.Displeylar soni-2 5. Maksimal PLU soni, dona-22700 6. Chop etish tezligi, mm/s-100",
+    "category": "Taroz",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/d826b492-a542-421f-b59e-0c8b44c601ff",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/d826b492-a542-421f-b59e-0c8b44c601ff",
+    "local_images": [
+      "/images/hardware/d826b492-a542-421f-b59e-0c8b44c601ff_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b8133f0f-0ca0-4c65-9073-908f822fe524",
+    "name": "GOLD Ribbon oltin 110*200",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/1d3daee7-b802-4a0f-bdd8-ef739946a7e2.webp"
+    ],
+    "description": "1 O‘lchami : 110*200 2 Miqdori : 200m 3 Qog‘oz turi : GOLD Ribbon 4 Rangi : oltin",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 375000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b8133f0f-0ca0-4c65-9073-908f822fe524",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b8133f0f-0ca0-4c65-9073-908f822fe524",
+    "local_images": [
+      "/images/hardware/b8133f0f-0ca0-4c65-9073-908f822fe524_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "732123ae-6356-468c-8e80-022b7a655340",
+    "name": "ZEBRA 2278",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/b15e4137-0844-4334-b4fe-635ac9a5a2df.webp"
+    ],
+    "description": "1. O‘qiydigan shtrix-kodlar: 1D va 2D 2. Batareya quvvati: 2400 mAh 3. Skanerlash diapazoni: 1.27 sm dan 36.83 sm gacha",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2875000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/732123ae-6356-468c-8e80-022b7a655340",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/732123ae-6356-468c-8e80-022b7a655340",
+    "local_images": [
+      "/images/hardware/732123ae-6356-468c-8e80-022b7a655340_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "fdf0b206-6702-479d-9f6d-45322bb0eeb4",
+    "name": "8800PRO",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/3908fcfd-7c83-412a-a056-645ef33fd7a7.webp"
+    ],
+    "description": "1 O'qish tizimi -Surat shtrix-kodlar 1D, 2D 2 Ulanish turi -Simli 3 Skanerlash tezligi: 2,7 m/s.",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/fdf0b206-6702-479d-9f6d-45322bb0eeb4",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/fdf0b206-6702-479d-9f6d-45322bb0eeb4",
+    "local_images": [
+      "/images/hardware/fdf0b206-6702-479d-9f6d-45322bb0eeb4_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "e6b3cc7c-4b9d-48be-a088-fcadd3bef347",
+    "name": "OPS-modul i5  (13-avlod)",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/9f0eb3b8-663f-44ae-8dff-9b01830b8f1a.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Operatsion tizim: Windows 10 Pro 2. Protsessor: Intel® Core™ i5 (13-avlod) 3. Tezligi: 1.80-2.30GHz 4. DDR4 operativ xotira: 8 GB 5. SSD xotira: 256 GB 6. Ulanish: Wi-Fi va Bluetooth 7. Portlar: USB 3.0 x4 ,USB 2.0 x2 , LAN , SPK , MIC , HDMI , VGA",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3660000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/e6b3cc7c-4b9d-48be-a088-fcadd3bef347",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/e6b3cc7c-4b9d-48be-a088-fcadd3bef347",
+    "local_images": [
+      "/images/hardware/e6b3cc7c-4b9d-48be-a088-fcadd3bef347_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7131b3b0-4761-42fe-88f1-ffc65d2e53cc",
+    "name": "LPS-9500",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/9a0edb8c-9c78-413d-bbfd-90f657de4fb4.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i5-6 CPU @1.80GHz 2 Operativ xotira: 8GB 3 Qattiq disk: 128GB SSD 4 Ekran diagonali: 15.6 5 Orqa ekrani:9.7 6 nterfeys: (2)USB 2.0, (4) USB 3.0, (2) RS232, (1) LAN, (1) HDMA, (1) VGA 7 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 4380000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7131b3b0-4761-42fe-88f1-ffc65d2e53cc",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7131b3b0-4761-42fe-88f1-ffc65d2e53cc",
+    "local_images": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/9a0edb8c-9c78-413d-bbfd-90f657de4fb4.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "eb1d1857-4840-4d62-8967-9bf4789a52ab",
+    "name": "LPS-156D",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/58703424-6ee6-4165-b32b-dd8a29ea4f38.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i5-6 CPU @2.50GHz 2 Operativ xotira: 8GB 3 Qattiq disk: 128GB SSD 4 Ekran diagonali: 15.6 5 Orqa ekrani: 11.6 6 Interfeys: (2)USB 2.0, (4) USB 3.0, (2) RS232, (1) LAN, (1) HDMA, (1) VGA 7 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 4380000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/eb1d1857-4840-4d62-8967-9bf4789a52ab",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/eb1d1857-4840-4d62-8967-9bf4789a52ab",
+    "local_images": [
+      "/images/hardware/eb1d1857-4840-4d62-8967-9bf4789a52ab_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7a99d61b-0fe2-416c-9d86-d57ef42c8a2d",
+    "name": "B2D",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/fbd7d5f2-fb3a-4993-a4d2-6cc0fb6baeaf.webp"
+    ],
+    "description": "1. 1D va 2D shtrix-kodlarni qo‘llab-quvvatlaydi 2. Skanerlash tizimi — 2D imager (rasm asosida aniqlash) 3. Maksimal o‘qish masofasi — 200 mm gacha 4. Skanerlash tezligi — 1.7 metr/soniya 5. Rasmlar orqali ham kodlarni aniqlash imkoniyati mavjud",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1250000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7a99d61b-0fe2-416c-9d86-d57ef42c8a2d",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7a99d61b-0fe2-416c-9d86-d57ef42c8a2d",
+    "local_images": [
+      "/images/hardware/7a99d61b-0fe2-416c-9d86-d57ef42c8a2d_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7fa64560-2bf4-47f2-99a4-41ddc0b326e1",
+    "name": "AT105B",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/cb4b08d4-c14c-4f09-8033-7cf35f041509.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. Aniqlash kengligi: 140 ~ 230 sm 3. Quvvat sarfi: 60 Vt 4. Olchamlari: 1498x412 5. Ovozli va yorug‘lik signalizatsiyasi",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5900000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7fa64560-2bf4-47f2-99a4-41ddc0b326e1",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7fa64560-2bf4-47f2-99a4-41ddc0b326e1",
+    "local_images": [
+      "/images/hardware/7fa64560-2bf4-47f2-99a4-41ddc0b326e1_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "5ac43565-851f-42c2-a17c-9a52333869d1",
+    "name": "LPS-9900PRO BT",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/101e3a46-6217-4c88-a9b5-c840fc2dfafb.webp"
+    ],
+    "description": "Skanerlash tezligi: 2.9 m/s O‘qish tizimi: Surat asosida aniqlash Qo‘llab-quvvatlanadigan kodlar: 1D va 2D Ulanish turi: USB + Bluetooth",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/5ac43565-851f-42c2-a17c-9a52333869d1",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/5ac43565-851f-42c2-a17c-9a52333869d1",
+    "local_images": [
+      "/images/hardware/5ac43565-851f-42c2-a17c-9a52333869d1_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "9de032a8-c76c-4d15-9e9d-2bed1cf99ee2",
+    "name": "LPS-818",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/f93ac14b-0ff4-4619-a379-abcb41b01722.webp"
+    ],
+    "description": "1 Bosib chiqarish tezligi: 152 mm/sek 2 Qog‘oz kengligi: 78 mm 3 Bosib chiqarish zichligi: 203 nuqta/satr 4 Interfeys: USB-lan 5 Qog‘ozni avtomatik ajratib berish xususiyatiga ega",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/9de032a8-c76c-4d15-9e9d-2bed1cf99ee2",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/9de032a8-c76c-4d15-9e9d-2bed1cf99ee2",
+    "local_images": [
+      "/images/hardware/9de032a8-c76c-4d15-9e9d-2bed1cf99ee2_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "e18afd78-8679-46db-bfd8-f652497d4248",
+    "name": "Ribbon wax resin 60*300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/9d9037d7-4bd5-4b35-944b-fe33941a6c8f.webp"
+    ],
+    "description": "O‘lchami : 60*300 Miqdori : 300 m Ribbon wax resin Rangi : Qora metalik",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 75000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/e18afd78-8679-46db-bfd8-f652497d4248",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/e18afd78-8679-46db-bfd8-f652497d4248",
+    "local_images": [
+      "/images/hardware/e18afd78-8679-46db-bfd8-f652497d4248_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ab053981-ddde-483c-bd81-67b2cb319f73",
+    "name": "Mini elektron tarozi",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/60795cba-8cb3-4e2d-b98e-eba68465a6ac.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Displey: 6 xonali LCD, 14 indikator 2. O‘lchov birliklari: g / kg / lb / oz / dona 3. Interfeyslar: RS-232 / USB 4. Boshqaruv paneli: 2 ta RS-232 interfeysi va 1 ta USB 5. Displey turi: 6 xonali LCD, 14 ta indikator bilan 6. Maksimal tortish: chegarasi-30 kg",
+    "category": "Taroz",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1830000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ab053981-ddde-483c-bd81-67b2cb319f73",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ab053981-ddde-483c-bd81-67b2cb319f73",
+    "local_images": [
+      "/images/hardware/ab053981-ddde-483c-bd81-67b2cb319f73_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "dcff9f1f-14c1-4ec4-ade4-58e3f5a0681d",
+    "name": "Interaktiv sensorli doska dyuym-86\" PREMIUM",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/2250bae7-db4f-4909-99bc-7ceb8a770b55.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 2200 MHz 6. Qo‘shimcha funksiyasi: NFC karta orqali bir nechta akkauntlar o‘rtasida tezkor o‘tish funksiyasi",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 17000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/dcff9f1f-14c1-4ec4-ade4-58e3f5a0681d",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/dcff9f1f-14c1-4ec4-ade4-58e3f5a0681d",
+    "local_images": [
+      "/images/hardware/dcff9f1f-14c1-4ec4-ade4-58e3f5a0681d_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "9f7f6d1c-1d02-4a8d-9e9a-21d8acc687a2",
+    "name": "XP-245B ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5ccb0b1b-c090-4fd2-a5fb-c4b7bd6450a3.webp"
+    ],
+    "description": "1. Ulanish interfeysi: USB 2. Chop etish kengligi: 48 mm 3. Chop etish tezligi: 90 mm/sek 4. Ruxsat: 203 dpi",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 440000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/9f7f6d1c-1d02-4a8d-9e9a-21d8acc687a2",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/9f7f6d1c-1d02-4a8d-9e9a-21d8acc687a2",
+    "local_images": [
+      "/images/hardware/9f7f6d1c-1d02-4a8d-9e9a-21d8acc687a2_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "645c42e3-f87a-4a35-ae02-de9e26817cbc",
+    "name": "XP-H400E",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/022eb83f-030c-43fb-8d97-9e20991c3d03.webp"
+    ],
+    "description": "1 Chop etish usul: Termo / Termotransfer 2 Ruxsat (DPI): 300 dpi 3 Chop etish kengligi: 110 mm 4 Chop etish tezligi 127 mm/sek",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/645c42e3-f87a-4a35-ae02-de9e26817cbc",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/645c42e3-f87a-4a35-ae02-de9e26817cbc",
+    "local_images": [
+      "/images/hardware/645c42e3-f87a-4a35-ae02-de9e26817cbc_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "3cd259b0-e308-48e0-85d6-07a643f15a6a",
+    "name": "LPS-9500OQ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/b086f830-b750-4f3e-827d-301b1f3fc86e.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/357ff7ab-dcf9-492e-b634-522778f3c30a.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: Intel Core i5- 6 avlod CPU 2. Ekran diagonali: 15.6 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 10 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 4270000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/3cd259b0-e308-48e0-85d6-07a643f15a6a",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/3cd259b0-e308-48e0-85d6-07a643f15a6a",
+    "local_images": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/b086f830-b750-4f3e-827d-301b1f3fc86e.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/357ff7ab-dcf9-492e-b634-522778f3c30a.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "35939375-ba9f-4853-a5ab-523a5bba0585",
+    "name": "Zebra 9308",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ac44670e-e122-4fba-9c14-fd251498944d.webp"
+    ],
+    "description": "1 Tezligi: 3 sm/soniyagacha 2 Skanerlash texnologiyasi: 2D — barcha turdagi QR va shtrix kodlarni o‘qiydi 3 Ulanish turi: Sim orqali uzluksiz aloqa",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/35939375-ba9f-4853-a5ab-523a5bba0585",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/35939375-ba9f-4853-a5ab-523a5bba0585",
+    "local_images": [
+      "/images/hardware/35939375-ba9f-4853-a5ab-523a5bba0585_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "64eac408-0945-4859-a32d-86447ce262c9",
+    "name": "405-07",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/15aa6696-e9f7-4497-9a31-bb3cf482365a.webp"
+    ],
+    "description": "1 Pul uchun 7 ta bo‘lim –turli valyutalarni ajratib saqlash uchun. 2 Mexanizm: plastmassadan 3 To‘liq metall korpus",
+    "category": "Pul qutisi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/64eac408-0945-4859-a32d-86447ce262c9",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/64eac408-0945-4859-a32d-86447ce262c9",
+    "local_images": [
+      "/images/hardware/64eac408-0945-4859-a32d-86447ce262c9_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "abe70b65-995c-4880-94fc-5b20c0e539f2",
+    "name": "OPS-modul  i3 (11-avlod)",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/01d88e64-a324-4c57-952f-fbc446dd5233.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Operatsion tizim: Windows 10 Pro 2. Protsessor: Intel® Core™ i3 (11-avlod) 3. Tezligi: 2.00GHz 4. DDR4 operativ xotira: 8 GB 5. SSD xotira: 128 GB 6. Ulanish: Wi-Fi va Bluetooth 7. Portlar: USB 3.0 x4 ,USB 2.0 x2 , LAN , SPK , MIC , HDMI , VGA",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2400000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/abe70b65-995c-4880-94fc-5b20c0e539f2",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/abe70b65-995c-4880-94fc-5b20c0e539f2",
+    "local_images": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/01d88e64-a324-4c57-952f-fbc446dd5233.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ed375b11-fcc3-4101-8e6e-590a67214d30",
+    "name": "Speakerphone  ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/8ebfae94-a0cd-4dff-a17f-ab5bd2285279.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Konferensiya zali maydoni: 60–100 m² 2. Ovozni ushlash: 360° 3. mikrofon: 6 ta 4. Qo‘llab-quvvatlash: DSP, DNR, 48K keng polosali ovoz 5. Ichki batareya: 5200 mA·soat",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 4270000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ed375b11-fcc3-4101-8e6e-590a67214d30",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ed375b11-fcc3-4101-8e6e-590a67214d30",
+    "local_images": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/8ebfae94-a0cd-4dff-a17f-ab5bd2285279.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "bdd52697-571a-40c2-a61f-6413da852416",
+    "name": "XP-80F",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/dab1e9af-de23-44a3-b78c-768c01679a8f.webp"
+    ],
+    "description": "1 Chop etish kengligi: 80 mm 2 Ruxsat: 203 DPI 3 Chop etish tezligi: 250 mm/sek 4 Ulanish usullari: USB va LAN",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 700000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/bdd52697-571a-40c2-a61f-6413da852416",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/bdd52697-571a-40c2-a61f-6413da852416",
+    "local_images": [
+      "/images/hardware/bdd52697-571a-40c2-a61f-6413da852416_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "18f25973-fa65-4457-8133-57b585c9f75f",
+    "name": "Godex G500",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/a0728adb-98ff-461d-9d78-e031607faf30.webp"
+    ],
+    "description": "1 Chop etish usul: Termo / Termotransfer 2 Ruxsat (DPI): 203 dpi 3 Chop etish kengligi: 110 mm 4 Chop etish tezligi 127 mm/sek",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/18f25973-fa65-4457-8133-57b585c9f75f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/18f25973-fa65-4457-8133-57b585c9f75f",
+    "local_images": [
+      "/images/hardware/18f25973-fa65-4457-8133-57b585c9f75f_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7b703964-618c-49d1-acdb-5d69a7665be2",
+    "name": "XP-890",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/e0e198d9-e5d0-460e-8b05-1439c5b35818.webp"
+    ],
+    "description": "XP-890 Narx - 1380000.0",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1380000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7b703964-618c-49d1-acdb-5d69a7665be2",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7b703964-618c-49d1-acdb-5d69a7665be2",
+    "local_images": [
+      "/images/hardware/7b703964-618c-49d1-acdb-5d69a7665be2_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ad25d045-1077-48e1-93a1-537b4b5dc101",
+    "name": "405-SK",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/e7f2cdbc-dca3-47b3-96b7-552b52025b71.webp"
+    ],
+    "description": "1. Pul uchun 4 ta keng va qulay bo‘lim mavjud. 2. Tangalar uchun 8 ta alohida maxsus joy mavjud. 3. Mexanizm – mustahkam metall zoldr bilan jihozlangan. 4. Korpusi – to‘liq metall materialdan tayyorlangan, yuqori darajadagi mustahkamlik va uzoq xizmat muddati uchun.",
+    "category": "Pul qutisi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 875000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ad25d045-1077-48e1-93a1-537b4b5dc101",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ad25d045-1077-48e1-93a1-537b4b5dc101",
+    "local_images": [
+      "/images/hardware/ad25d045-1077-48e1-93a1-537b4b5dc101_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "8906ffa6-dbbb-4261-9cd3-3c63249c365d",
+    "name": "ZD888TA 300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/efe6e985-24da-491b-8d9d-5442dd77e206.webp"
+    ],
+    "description": "1 Ruxsat (DPI): 300 dpi 2 Chop etish kengligi: 104 mm 3 Chop etish tezligi 152 mm/sek 4 Uzoq muddat ishlaydigan termogolovka",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3125000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/8906ffa6-dbbb-4261-9cd3-3c63249c365d",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/8906ffa6-dbbb-4261-9cd3-3c63249c365d",
+    "local_images": [
+      "/images/hardware/8906ffa6-dbbb-4261-9cd3-3c63249c365d_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ff76438e-17e2-4b8d-92a7-5ecf22474449",
+    "name": "5500",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d89fc1f5-6cc1-40ae-9be9-41cc7e30c40d.webp"
+    ],
+    "description": "1. Skanerlash tezligi: 1,2m/s. 2. Skanerlash texnologiyasi: 2D 3. Batareya: NiMH batareyalari 2300 mA / s 4. Ulanish turi: USB + Bluetooth",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ff76438e-17e2-4b8d-92a7-5ecf22474449",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ff76438e-17e2-4b8d-92a7-5ecf22474449",
+    "local_images": [
+      "/images/hardware/ff76438e-17e2-4b8d-92a7-5ecf22474449_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "2dfe5637-9565-41a4-9468-7b1363c910d8",
+    "name": "LPS-156E",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c41dbca4-868b-479b-aef1-37168be21af5.webp"
+    ],
+    "category": "Ekran Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1880000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/2dfe5637-9565-41a4-9468-7b1363c910d8",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/2dfe5637-9565-41a4-9468-7b1363c910d8",
+    "local_images": [
+      "/images/hardware/2dfe5637-9565-41a4-9468-7b1363c910d8_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "cd5a214e-b5b3-40ac-94e5-f377129cee2c",
+    "name": "Ribbon resin 110*300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/153339a0-0941-4bfa-b1d4-91769a7aecc9.webp"
+    ],
+    "description": "1 O‘lchami : 110*300 2 Miqdori : 300 m 3 Ribbon resin 4 Rangi : Qora metalik",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 190000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/cd5a214e-b5b3-40ac-94e5-f377129cee2c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/cd5a214e-b5b3-40ac-94e5-f377129cee2c",
+    "local_images": [
+      "/images/hardware/cd5a214e-b5b3-40ac-94e5-f377129cee2c_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "40d1aca9-eae1-4e89-aa44-5ccc20e96a24",
+    "name": "LPS-156",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/04558464-0549-479f-a497-fe4a2a125413.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i5-6 CPU @2.50GHz 2 Operativ xotira: 8GB 3 Qattiq disk: 128GB SSD 4 Ekran diagonali: 15.6 5 Interfeys: (2)USB 2.0, (4) USB 3.0, (2) RS232, (1) LAN, (1) HDMA, (1) VGA 6 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3444000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/40d1aca9-eae1-4e89-aa44-5ccc20e96a24",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/40d1aca9-eae1-4e89-aa44-5ccc20e96a24",
+    "local_images": [
+      "/images/hardware/40d1aca9-eae1-4e89-aa44-5ccc20e96a24_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "5f4ddf94-0f37-451d-8098-67a53231f907",
+    "name": "Stend  1700",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/bf40990d-d933-429d-b20c-e5fbbd9d239c.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 Maksimal yuklama: 90 kg 2 Ekran diagonali (maks.): 65\" 3 Ekran diagonali (min.): 55\" 4 Material: Metall, plastmassa",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 740000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/5f4ddf94-0f37-451d-8098-67a53231f907",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/5f4ddf94-0f37-451d-8098-67a53231f907",
+    "local_images": [
+      "/images/hardware/5f4ddf94-0f37-451d-8098-67a53231f907_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "50df665c-44d8-4497-98ba-e814a6a98c9c",
+    "name": "LPS-717",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/2126fdea-da4c-4b94-8048-ca06d838a426.webp"
+    ],
+    "description": "1 Mahsulot turi: Chek chiqarish moslamasi 2 Chob etish tezligi: 230mms 3 Interfeys turi: USB+LAN+COM 4 Chop etish kengligi:80mm",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/50df665c-44d8-4497-98ba-e814a6a98c9c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/50df665c-44d8-4497-98ba-e814a6a98c9c",
+    "local_images": [
+      "/images/hardware/50df665c-44d8-4497-98ba-e814a6a98c9c_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "44b7c28d-0a9d-4fae-ae79-708a13584d10",
+    "name": "Kuchaytirgich",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d2249862-b2bf-46d0-87ac-37c98a6999c0.webp"
+    ],
+    "description": "1. Ish chastotasi: 433,92 MHz 2. Signal qabul qilish radiusi: kamida 100 metr 3. Indikatsiya: LED chiroqlar orqali ko‘rsatiladi",
+    "category": "Chaqiriv tizimi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 650000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/44b7c28d-0a9d-4fae-ae79-708a13584d10",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/44b7c28d-0a9d-4fae-ae79-708a13584d10",
+    "local_images": [
+      "/images/hardware/44b7c28d-0a9d-4fae-ae79-708a13584d10_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b73e528e-b8ce-42cd-a898-8caf6ed71652",
+    "name": "XP-58mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/b376b425-be35-43be-afbd-a29202446540.webp"
+    ],
+    "description": "1 Bosib chiqarish tezligi: 90 mm/sek 2 Qog'oz kengligi: 58 mm 3 Bosib chiqarish zichligi: 203 nuqta/satr 4 Interfeys: USB",
+    "category": "Chek printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 287000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b73e528e-b8ce-42cd-a898-8caf6ed71652",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b73e528e-b8ce-42cd-a898-8caf6ed71652",
+    "local_images": [
+      "/images/hardware/b73e528e-b8ce-42cd-a898-8caf6ed71652_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b5fe7fa4-cdcd-4840-8eea-39b55e667968",
+    "name": "405-06",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/80a357eb-c31d-4baf-8922-cc4dbc06ed64.webp"
+    ],
+    "description": "1 Pul uchun 6 ta keng va qulay bo‘lim 2 Mexanizm: plastmassadan 3 To‘liq metall korpus",
+    "category": "Pul qutisi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b5fe7fa4-cdcd-4840-8eea-39b55e667968",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b5fe7fa4-cdcd-4840-8eea-39b55e667968",
+    "local_images": [
+      "/images/hardware/b5fe7fa4-cdcd-4840-8eea-39b55e667968_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "244a9092-52ab-4314-a7f1-58611e36ce60",
+    "name": "LPS-9900PRO",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/967b09d0-8077-4740-9e71-4c6bb3a243f2.webp"
+    ],
+    "description": "Skanerlash tezligi: 2.9 m/s O‘qish tizimi: Surat asosida aniqlash Qo‘llab-quvvatlanadigan kodlar: 1D va 2D Ulanish turi: USB",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 496000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/244a9092-52ab-4314-a7f1-58611e36ce60",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/244a9092-52ab-4314-a7f1-58611e36ce60",
+    "local_images": [
+      "/images/hardware/244a9092-52ab-4314-a7f1-58611e36ce60_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "5e2ec048-7b58-4ede-a340-b7e0a298dfb8",
+    "name": "4400PRO",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/afd7ce0e-6d47-413a-870c-26bdb9ecd455.webp"
+    ],
+    "description": "⚙️ Skaner texnik xususiyatlari: Skanerlash tezligi: 2 m/s O‘qish tizimi: Surat asosida aniqlash Qo‘llab-quvvatlanadigan kodlar: 1D va 2D (jumladan, DataMatrix) Ulanish turi: USB + Bluetooth",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/5e2ec048-7b58-4ede-a340-b7e0a298dfb8",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/5e2ec048-7b58-4ede-a340-b7e0a298dfb8",
+    "local_images": [
+      "/images/hardware/5e2ec048-7b58-4ede-a340-b7e0a298dfb8_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "4f2b36fc-0413-4079-9ebf-196763b8072e",
+    "name": "4400",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/80321b11-62cc-4498-bb91-a48e2863e794.webp"
+    ],
+    "description": "⚙️ Skaner texnik xususiyatlari: Skanerlash tezligi: 2.3 m/s O‘qish tizimi: Surat asosida aniqlash Qo‘llab-quvvatlanadigan kodlar: 1D va 2D (jumladan, DataMatrix) Ulanish turi: USB + Bluetooth",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/4f2b36fc-0413-4079-9ebf-196763b8072e",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/4f2b36fc-0413-4079-9ebf-196763b8072e",
+    "local_images": [
+      "/images/hardware/4f2b36fc-0413-4079-9ebf-196763b8072e_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "659b1100-9437-4fa5-ae7d-b8a798dd6d75",
+    "name": "Call",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d5ce5dcf-7d72-4c89-b0e7-d72580b78fd7.webp"
+    ],
+    "description": "1. Quvvat manbai: CR2032 batareya 2. Ishlash muddati: 12–18 oy 3. Signal masofasi: ochiq joyda 200–300 metr / binoda 50–100 metr",
+    "category": "Chaqiriv tizimi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 114000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/659b1100-9437-4fa5-ae7d-b8a798dd6d75",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/659b1100-9437-4fa5-ae7d-b8a798dd6d75",
+    "local_images": [
+      "/images/hardware/659b1100-9437-4fa5-ae7d-b8a798dd6d75_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "279b9605-cd61-425f-9dbe-e279056196ea",
+    "name": "LPS-1514 i5 5th",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/353b90a8-4bcf-42db-81e9-1afe1eb3d532.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Protsessor: i5-5 TH 2. Ekran diagonali: 15\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2928000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/279b9605-cd61-425f-9dbe-e279056196ea",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/279b9605-cd61-425f-9dbe-e279056196ea",
+    "local_images": [
+      "/images/hardware/279b9605-cd61-425f-9dbe-e279056196ea_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "bc778973-1765-4e4c-8483-26316ce5b102",
+    "name": "ZEBRA 2208",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/f21a0314-a3c5-46bd-a5f9-381b194fd823.webp"
+    ],
+    "description": "1. Ulanish interfeyslari: USB, RS-232 2. Skan qilish texnologiyasi: 1D/2D barcodlarni o‘qish 3. O‘qish masofasi: 36 sm gacha 4. Skanerlash tezligi: 1.3 m/s.",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1700000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/bc778973-1765-4e4c-8483-26316ce5b102",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/bc778973-1765-4e4c-8483-26316ce5b102",
+    "local_images": [
+      "/images/hardware/bc778973-1765-4e4c-8483-26316ce5b102_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "95490742-2486-4dc9-b606-987fc15ca7fa",
+    "name": "Stend 1800",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c8ade798-a465-4428-ba42-78cc42024d53.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 Maksimal yuk ko‘tarish qobiliyati: 120 kg 2 Ekran diagonali (maks.): 86\" 3 Ekran diagonali (min.): 55\" 4 Material: Metall, plastmassa",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1230000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/95490742-2486-4dc9-b606-987fc15ca7fa",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/95490742-2486-4dc9-b606-987fc15ca7fa",
+    "local_images": [
+      "/images/hardware/95490742-2486-4dc9-b606-987fc15ca7fa_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "fa876962-8239-47b4-a890-6c5e6e496dd8",
+    "name": "Mini elektron tarozi DSW100 ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d8324986-c05c-473c-ada0-7147ada99917.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Displey: 6 xonali LCD, 14 indikator 2. O‘lchov birliklari: g / kg / lb / oz / dona 3. Interfeyslar: RS-232 / USB 4. Boshqaruv paneli: 2 ta RS-232 interfeysi va 1 ta USB 5. Displey turi: 6 xonali LCD, 14 ta indikator bilan 6. Maksimal tortish: chegarasi-30 kg",
+    "category": "Taroz",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1464000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/fa876962-8239-47b4-a890-6c5e6e496dd8",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/fa876962-8239-47b4-a890-6c5e6e496dd8",
+    "local_images": [
+      "/images/hardware/fa876962-8239-47b4-a890-6c5e6e496dd8_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "2870368c-4c5c-48f5-ad9b-74969cbb7c0c",
+    "name": "Ribbon wax resin 110*300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/bf405c67-4ec0-42b7-a1b2-36478cfc47c0.webp"
+    ],
+    "description": "1 O‘lchami : 110*300 2 Miqdori : 300 m 3 Qog‘oz turi : terma qog‘oz 4 Rangi : Binafsharang ko'k qizil",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 312000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/2870368c-4c5c-48f5-ad9b-74969cbb7c0c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/2870368c-4c5c-48f5-ad9b-74969cbb7c0c",
+    "local_images": [
+      "/images/hardware/2870368c-4c5c-48f5-ad9b-74969cbb7c0c_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "33ec1f2e-deca-42e2-ad0c-0b81749e2fd3",
+    "name": "Savdo savati 22L",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ca1702be-c51a-47a8-9a88-daa8473ed94f.webp"
+    ],
+    "description": "⚙️Nima uchun aynan bizning aravachalar: 1 Mustahkam metall – zanglamaydi 2 Og‘ir yuklarga bardoshli 3 G‘ildiraklari oson harakatlanadi 4 Kengligi - 34sm uzunligi - 45sm chuqurligi - 20sm",
+    "category": "Telejka",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 160000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/33ec1f2e-deca-42e2-ad0c-0b81749e2fd3",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/33ec1f2e-deca-42e2-ad0c-0b81749e2fd3",
+    "local_images": [
+      "/images/hardware/33ec1f2e-deca-42e2-ad0c-0b81749e2fd3_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7827baa9-88f2-4e56-9362-031be8806df1",
+    "name": "58*30mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5073b768-f58a-4c1b-8101-e8872d1403ae.webp"
+    ],
+    "description": "O‘lchami : 58*30 Miqdori : 550 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 14000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7827baa9-88f2-4e56-9362-031be8806df1",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7827baa9-88f2-4e56-9362-031be8806df1",
+    "local_images": [
+      "/images/hardware/7827baa9-88f2-4e56-9362-031be8806df1_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "9d0abd8c-cc0a-4306-9f44-d5fd65234e26",
+    "name": "Stend",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/e57fab81-ca49-4d39-a63a-85dd960da3e5.webp"
+    ],
+    "description": "1 Metalldan yasalgan 2 Sozlanadigan tuzilma. Moslashuvchan harakat.",
+    "category": "Stend",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/9d0abd8c-cc0a-4306-9f44-d5fd65234e26",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/9d0abd8c-cc0a-4306-9f44-d5fd65234e26",
+    "local_images": [
+      "/images/hardware/9d0abd8c-cc0a-4306-9f44-d5fd65234e26_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "4fd9c918-a6bf-498f-b95c-2eefd487141b",
+    "name": "LPS-185",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/e3291467-4270-4cf2-85de-08067c2bad4c.webp"
+    ],
+    "description": "1. Protsessor: Intel Core i5-7 GPU 2.71 GHz 2. Operativ xotira (RAM): 8 GB 3. Ekran diagonali: 18.5 4. Tizim turi: Operatsion tizim 64-bit 5 .Sensorli boshqaruv: Bir vaqtning o‘zida 10ta kasaniya 6. Operatsion tizim: Windows 10 Pro",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6870000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/4fd9c918-a6bf-498f-b95c-2eefd487141b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/4fd9c918-a6bf-498f-b95c-2eefd487141b",
+    "local_images": [
+      "/images/hardware/4fd9c918-a6bf-498f-b95c-2eefd487141b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "64a63021-f4d9-4439-95af-b0fb3a73c02c",
+    "name": "DT-1500i ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/77d9cd4d-6711-4d56-878d-0afca4ecec4b.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/4c0d2046-34e8-466b-82eb-cf85f7511cd0.webp"
+    ],
+    "description": "Keng format: 1D va 2D shtrix-kodlar Ulanish turi: Sim orqali uzluksiz aloqa Yuqori skanerlash tezligi: 1,5 m/s",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1875000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/64a63021-f4d9-4439-95af-b0fb3a73c02c",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/64a63021-f4d9-4439-95af-b0fb3a73c02c",
+    "local_images": [
+      "/images/hardware/64a63021-f4d9-4439-95af-b0fb3a73c02c_0.webp",
+      "/images/hardware/64a63021-f4d9-4439-95af-b0fb3a73c02c_1.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "c64042d0-42c4-4226-b365-ac9341dae756",
+    "name": "HT024",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/29e4ef34-ec70-4c5d-94be-2b0a0b796a1f.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 kHz 2. O‘lchamlari: 51 × 13 × 18 mm 3. Mahsulot nomi: 46 mm AM qattiq teg",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1375,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/c64042d0-42c4-4226-b365-ac9341dae756",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/c64042d0-42c4-4226-b365-ac9341dae756",
+    "local_images": [
+      "/images/hardware/c64042d0-42c4-4226-b365-ac9341dae756_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "bf04ee7e-fcbd-4994-8d4a-71f10fb4d135",
+    "name": "CT650WB",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/70c67312-b28f-498a-9d96-30567c4fcefb.webp"
+    ],
+    "description": "1 O‘qish tizimi: Surat asosida aniqlash 2 Qo‘llab-quvvatlanadigan kodlar: 1D, 2D (QR, DataMatrix) 3 Ulanish turi: USB + Bluetooth 4 Skanerlash tezligi: 2,7 m/s 5 1 yil kafolat 6 Asil belgisi bilan integratsiya – soliq tizimi bilan muammosiz ishlaydi!",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/bf04ee7e-fcbd-4994-8d4a-71f10fb4d135",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/bf04ee7e-fcbd-4994-8d4a-71f10fb4d135",
+    "local_images": [
+      "/images/hardware/bf04ee7e-fcbd-4994-8d4a-71f10fb4d135_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "f9391800-43e6-4b4e-b679-ef2366352d17",
+    "name": "Godex ZX420i",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/09a89380-a20c-46f9-b2c5-cbe0602ea7f2.webp"
+    ],
+    "description": "1 Ulanish interfeyslari: USB 2.0, RS-232, RJ-45, 3×USB Host, LAN 2 Chop etish kengligi: 110 mm 3 Bosib chiqarish tezligi: 152 mm/sek 4 Ruxsat: 300 dpi (12 nuqta/mm) 5 Maksimal rulon uzunligi: 450 m",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 12500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/f9391800-43e6-4b4e-b679-ef2366352d17",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/f9391800-43e6-4b4e-b679-ef2366352d17",
+    "local_images": [
+      "/images/hardware/f9391800-43e6-4b4e-b679-ef2366352d17_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "339d2d8d-bd3a-4254-ae13-db6405758042",
+    "name": "30*20mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/28400687-6e4c-42ef-9b1a-5abd40213ac5.webp"
+    ],
+    "description": "O‘lchami : 30*20 Miqdori : 1500 Qog‘oz turi : terma qog‘oz Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 15000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/339d2d8d-bd3a-4254-ae13-db6405758042",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/339d2d8d-bd3a-4254-ae13-db6405758042",
+    "local_images": [
+      "/images/hardware/339d2d8d-bd3a-4254-ae13-db6405758042_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "102d1ee2-61d7-4c6f-b825-f3ecd8a05fac",
+    "name": "Godex G530",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/1775a484-f20b-4acd-8845-80a836a55705.webp"
+    ],
+    "description": "1 Chop etish usul: Termo / Termotransfer 2 Ruxsat (DPI): 300 dpi (yuqori sifat) 3 Chop etish kengligi: 110 mm 4 Chop etish tezligi 127 mm/sek",
+    "category": "Barkod printeri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3250000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/102d1ee2-61d7-4c6f-b825-f3ecd8a05fac",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/102d1ee2-61d7-4c6f-b825-f3ecd8a05fac",
+    "local_images": [
+      "/images/hardware/102d1ee2-61d7-4c6f-b825-f3ecd8a05fac_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "92beacf4-83ad-4eb5-9bfe-4ab4e2506d08",
+    "name": "Telejka 100L",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/70d14a23-badc-4ed3-b896-b56fd0a9bf65.webp"
+    ],
+    "description": "⚙️Nima uchun aynan bizning aravachalar: 1 Mustahkam metall – zanglamaydi 2 Og‘ir yuklarga bardoshli 3 G‘ildiraklari oson harakatlanadi 4 Kengligi - 45sm uzunligi - 56sm chuqurligi - 40sm",
+    "category": "Telejka",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1220000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/92beacf4-83ad-4eb5-9bfe-4ab4e2506d08",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/92beacf4-83ad-4eb5-9bfe-4ab4e2506d08",
+    "local_images": [
+      "/images/hardware/92beacf4-83ad-4eb5-9bfe-4ab4e2506d08_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "6bb08111-c614-49e7-9edf-4b49854c1ebe",
+    "name": "Busin",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/98011d1b-2f9c-42ea-87c6-872b7032e96c.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i3- 4CPU @.1,80GHz 2 Operativ xotira: 8 GB 3 Qattiq disk: 256 GB SSD 4 Ekran diagonali: 15,6 5 Sensor turi: 10 TOUCH POINTS ✔️Juda sezgir sensor",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5600000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/6bb08111-c614-49e7-9edf-4b49854c1ebe",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/6bb08111-c614-49e7-9edf-4b49854c1ebe",
+    "local_images": [
+      "/images/hardware/6bb08111-c614-49e7-9edf-4b49854c1ebe_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "ae637a2f-1465-4c4c-ac01-14d57ffe44e1",
+    "name": "Superlead",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/63500b5d-d1b8-42c1-bff2-1ca233432591.webp"
+    ],
+    "description": "1 O‘qish tizimi – 1D va 2D shtrix-kodlarni surat orqali tezda o‘qiydi 2 Ulanish turi – USB orqali 3 Sim orqali uzluksiz aloqa – ishonchli va barqaror ishlaydi 4 Skanerlash tezligi: 1 m/s",
+    "category": "Statsionar skaner",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 2000000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/ae637a2f-1465-4c4c-ac01-14d57ffe44e1",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/ae637a2f-1465-4c4c-ac01-14d57ffe44e1",
+    "local_images": [
+      "/images/hardware/ae637a2f-1465-4c4c-ac01-14d57ffe44e1_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "9d20f650-ebae-4a81-ac41-1604c7a19377",
+    "name": " ES130",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/4d06fa6a-83a0-44a3-9872-11cf5b26353f.webp"
+    ],
+    "description": "1. Signal chastotasi: 58 2. Aniqlash kengligi: 160 ~ 260 sm 3. Quvvat sarfi: 60 Vt 4. Olchamlari: 1620x460 5. Ovozli va yorug‘lik signalizatsiyasi",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 7500000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/9d20f650-ebae-4a81-ac41-1604c7a19377",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/9d20f650-ebae-4a81-ac41-1604c7a19377",
+    "local_images": [
+      "/images/hardware/9d20f650-ebae-4a81-ac41-1604c7a19377_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b3c26cea-23c5-439f-8dcd-a3512171d4d2",
+    "name": "Interaktiv sensorli doska dyuym-65\" PREMIUM+",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/4d5f707c-ceaa-4e55-9089-5c651dd67b51.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 3840×2160 (4K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 256 GB 4. DDR operativ xotira: 16 GB 5. Ulanish imkoniyati: Bluetooth va Wi-F 5. Protsessor chastotasi: 2300 MHz 6. Qo‘shimcha funksiyasi: NFC karta orqali bir nechta akkauntlar o‘rtasida tezkor o‘tish funksiyasi 7. Kamera : 8 megapiksell",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 12300000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b3c26cea-23c5-439f-8dcd-a3512171d4d2",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b3c26cea-23c5-439f-8dcd-a3512171d4d2",
+    "local_images": [
+      "/images/hardware/b3c26cea-23c5-439f-8dcd-a3512171d4d2_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "47d0954f-97a4-427f-a673-c3a51418ceb9",
+    "name": "DATALOGIC",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/71c86223-41e5-4ec2-9a3d-8eb202211760.webp"
+    ],
+    "description": "1. O‘qiydigan shtrix-kodlar: 1D va 2D 2. Batareya quvvati: 2400 mAh 3. Skanerlash diapazoni: 2.0 m/s.",
+    "category": "Qo‘l skaneri",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1250000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/47d0954f-97a4-427f-a673-c3a51418ceb9",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/47d0954f-97a4-427f-a673-c3a51418ceb9",
+    "local_images": [
+      "/images/hardware/47d0954f-97a4-427f-a673-c3a51418ceb9_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "b927ba82-d32b-4e01-b577-65cb8a0480f6",
+    "name": "Stend  R12",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/308cd6a7-5de1-4c6c-a2d6-576e1cfed9d3.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1 Maksimal umumiy yuklama: 150 kg 2 Ekran diagonali (maks.): 98\" 3 Ekran diagonali (min.): 65\" 4 Material: Metall, plastmassa 5 0,5 litr hajmli stakan uchun raz’yom mavjud",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1700000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/b927ba82-d32b-4e01-b577-65cb8a0480f6",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/b927ba82-d32b-4e01-b577-65cb8a0480f6",
+    "local_images": [
+      "/images/hardware/b927ba82-d32b-4e01-b577-65cb8a0480f6_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "7cd3c2a1-14c6-4aee-8c0e-6e587d964141",
+    "name": "QO‘L SOATI ",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/5da20018-3d9f-42b4-a77a-c00649a63e86.webp"
+    ],
+    "description": "1. Uzluksiz ishlash vaqti: 72 soat 2. Zaryadlash vaqti: 2–3 soat (USB orqali) 3. Himoya darajasi: IPX4/IPX5 (suv sachrashiga chidamli)",
+    "category": "Chaqiriv tizimi",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/7cd3c2a1-14c6-4aee-8c0e-6e587d964141",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/7cd3c2a1-14c6-4aee-8c0e-6e587d964141",
+    "local_images": [
+      "/images/hardware/7cd3c2a1-14c6-4aee-8c0e-6e587d964141_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "00f470bb-2073-4a8a-9fa5-f6b7f5910aad",
+    "name": "Savdo aravachasi 60L",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/2adf5518-a31c-4806-bdd0-75dba541915a.webp"
+    ],
+    "description": "⚙️Nima uchun aynan bizning aravachalar: 1 Plastmassadan yasalgan 2 Og‘ir yuklarga bardoshli 3 G‘ildiraklari oson harakatlanadi 4 Kengligi - 34sm uzunligi - 38sm chuqurligi - 42sm",
+    "category": "Telejka",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 480000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/00f470bb-2073-4a8a-9fa5-f6b7f5910aad",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/00f470bb-2073-4a8a-9fa5-f6b7f5910aad",
+    "local_images": [
+      "/images/hardware/00f470bb-2073-4a8a-9fa5-f6b7f5910aad_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "59942163-6249-43b2-80c5-b3d4f913a136",
+    "name": "80*50mm",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/edaa0ba0-54e8-45d4-8665-07381dfbfe60.webp"
+    ],
+    "description": "1 O‘lchami : 80mm 2 Miqdori : 50m 3 Qog‘oz turi : terma Chek qog‘oz 4 Rangi : Oq",
+    "category": "Cheklar va shtrix-kod qog‘ozlari ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 11000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/59942163-6249-43b2-80c5-b3d4f913a136",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/59942163-6249-43b2-80c5-b3d4f913a136",
+    "local_images": [
+      "/images/hardware/59942163-6249-43b2-80c5-b3d4f913a136_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "6e8dd056-9a8c-473d-b197-614c13623b3f",
+    "name": "Mobil planshet  32\"",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/12943682-85dc-4295-b5ac-05acab5534d0.webp",
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/095f3e43-33e3-4de6-872d-593e7e6fe4a4.webp"
+    ],
+    "description": "⚙️ Texnik xususiyatlari: 1. Ekran ruxsati: 1920×1080 (2K) 2. Yangilanish chastotasi: 60 Hz 3. SSD xotira: 128 GB 4. DDR operativ xotira: 8 GB 5. Yorqinlik — 350 kd/m² 5. Android — 13",
+    "category": "Interaktiv doska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 8180000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/6e8dd056-9a8c-473d-b197-614c13623b3f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/6e8dd056-9a8c-473d-b197-614c13623b3f",
+    "local_images": [
+      "/images/hardware/6e8dd056-9a8c-473d-b197-614c13623b3f_0.webp",
+      "/images/hardware/6e8dd056-9a8c-473d-b197-614c13623b3f_1.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "e4ac0552-131c-4c40-a2cb-902795ca5f48",
+    "name": "LPS-17",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/fbee1663-cd3f-4f57-ad77-9e399722bf69.webp"
+    ],
+    "description": "1. Protsessor: Intel Core i5-12 avlod CPU 2. Ekran diagonali: 17 3. Xotira (RAM): 8 GB 4. SSD: 128 GB 5. Tizim: Windows 11 PRO 6. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6870000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/e4ac0552-131c-4c40-a2cb-902795ca5f48",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/e4ac0552-131c-4c40-a2cb-902795ca5f48",
+    "local_images": [
+      "/images/hardware/e4ac0552-131c-4c40-a2cb-902795ca5f48_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "1f7995f2-ab79-40ee-b8f6-5af30413f9af",
+    "name": " BE010",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/f06f2f2a-9fd9-4b9f-a24d-a328ebcdffae.webp"
+    ],
+    "description": "Uzunligi: 170 mm",
+    "category": "Antikrajnaya Varota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 1000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/1f7995f2-ab79-40ee-b8f6-5af30413f9af",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/1f7995f2-ab79-40ee-b8f6-5af30413f9af",
+    "local_images": [
+      "/images/hardware/1f7995f2-ab79-40ee-b8f6-5af30413f9af_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "34e80d7f-67a2-4c4f-acf8-1b2e30722b13",
+    "name": "Ribbon  resin  60*300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/d2c0405f-6ac6-4a58-9442-d4b3d60df369.webp"
+    ],
+    "description": "O‘lchami : 60*300 Miqdori : 300m Ribbon resin Rangi : Qora metalik",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 125000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/34e80d7f-67a2-4c4f-acf8-1b2e30722b13",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/34e80d7f-67a2-4c4f-acf8-1b2e30722b13",
+    "local_images": [
+      "/images/hardware/34e80d7f-67a2-4c4f-acf8-1b2e30722b13_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "e48c4b60-b633-4dd3-aaae-c52b623d3582",
+    "name": "Ribbon wax resin 110*300",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/0a104618-925c-4dba-837d-74058536d7a6.webp"
+    ],
+    "description": "1 O‘lchami : 110*300 2 Miqdori : 300 m 3 Ribbon wax resin 4 Rangi : Qora metalik",
+    "category": "Ribbon ",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 125000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/e48c4b60-b633-4dd3-aaae-c52b623d3582",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/e48c4b60-b633-4dd3-aaae-c52b623d3582",
+    "local_images": [
+      "/images/hardware/e48c4b60-b633-4dd3-aaae-c52b623d3582_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "37ee1a9e-4061-40d1-83df-d297fb75871b",
+    "name": "LPS-9200D",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/6505f91e-336e-496b-9756-3ddca2614d77.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i5-6 CPU @1.80GHz 2 Operativ xotira: 8GB 3 Qattiq disk: 128GB SSD 4 Ekran diagonali: 15.6 5 Qo‘shimcha ekran: 15.6 6 Interfeys: (2)USB 2.0, (4) USB 3.0, (2) RS232, (1) LAN, (1) HDMA, (1) VGA 7 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 6625000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/37ee1a9e-4061-40d1-83df-d297fb75871b",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/37ee1a9e-4061-40d1-83df-d297fb75871b",
+    "local_images": [
+      "/images/hardware/37ee1a9e-4061-40d1-83df-d297fb75871b_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "a3672313-7321-40f2-a446-fe0828346477",
+    "name": "LPS-21",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/c309e3eb-5f6f-41ca-9e4d-b7f6c2123e07.webp"
+    ],
+    "description": "1. Protsessor: i5-8 CPU @1.80GHz 2. Ekran diagonali: 21\" 3. Xotira: 8GB / 128GB SSD 4. Tizim: Windows 10PRO 5. Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5350000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/a3672313-7321-40f2-a446-fe0828346477",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/a3672313-7321-40f2-a446-fe0828346477",
+    "local_images": [
+      "/images/hardware/a3672313-7321-40f2-a446-fe0828346477_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "415455d6-f086-4280-b2cd-01488528996f",
+    "name": "LPS-9200",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/8dd98a30-89d6-4ef5-93a3-21ea106f2c33.webp"
+    ],
+    "description": "1 Protsessor: Intel(R) Core(TM) i5-6 CPU @1.80GHz 2 Operativ xotira: 8GB 3 Qattiq disk: 128GB SSD 4 Ekran diagonali: 15.6 5 Interfeys: (2)USB 2.0, (4) USB 3.0, (2) RS232, (1) LAN, (1) HDMA, (1) VGA 6 Sensor turi: 10 TOUCH POINTS",
+    "category": "Monoblok",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 5385000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/415455d6-f086-4280-b2cd-01488528996f",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/415455d6-f086-4280-b2cd-01488528996f",
+    "local_images": [
+      "/images/hardware/415455d6-f086-4280-b2cd-01488528996f_0.webp"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "c5b712aa-e389-4b3c-835c-87e228fd8454",
+    "name": "Slim",
+    "image": [
+      "https://robosell.ams3.digitaloceanspaces.com/robosell/ae124198-3f21-4f80-b87b-ab97c2f91e31.webp"
+    ],
+    "description": "1 Displaylar soni: 1 dona 2 Minimal tortish chegarasi: 10 gramm 3 Maksimal tortish chegarasi: 15 kg",
+    "category": "Taroz",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "UZS",
+      "price": 3750000,
+      "itemCondition": "https://schema.org/NewCondition",
+      "url": "https://lariba.robosite.uz/products/c5b712aa-e389-4b3c-835c-87e228fd8454",
+      "availability": "https://schema.org/InStock"
+    },
+    "source_url": "https://lariba.robosite.uz/products/c5b712aa-e389-4b3c-835c-87e228fd8454",
+    "local_images": [
+      "/images/hardware/c5b712aa-e389-4b3c-835c-87e228fd8454_0.webp"
+    ]
+  }
+]

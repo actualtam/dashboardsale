@@ -1,0 +1,9 @@
+node_modules/
+.next/
+*.zip
+*.png
+!public/**
+!dashboardsale-bundle/**
+.env
+.env.local
+cloudflared
