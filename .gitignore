@@ -3,6 +3,7 @@ node_modules/
 *.zip
 *.png
 !public/**
+!docs/**
 !dashboardsale-bundle/**
 .env
 .env.local
