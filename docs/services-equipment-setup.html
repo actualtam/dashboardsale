@@ -601,8 +601,13 @@
   grid-template-columns: 1.15fr 0.85fr;
   gap: 44px;
 }
+.svc-pres-grid.stage-grid {
+  grid-template-columns: minmax(360px, 480px) 1fr;
+  gap: 48px;
+  align-items: center;
+}
 @media (max-width: 960px) {
-  .svc-pres-grid, .svc-pres-grid.landscape-grid {
+  .svc-pres-grid, .svc-pres-grid.landscape-grid, .svc-pres-grid.stage-grid {
     grid-template-columns: 1fr;
     gap: 36px;
   }
@@ -616,6 +621,10 @@
 }
 .device-frame-wrap.device-landscape {
   max-width: 640px;
+  width: 100%;
+}
+.device-frame-wrap.device-stage {
+  max-width: 500px;
   width: 100%;
 }
 .device-phone {
@@ -632,6 +641,13 @@
   border: 1.5px solid rgba(255,255,255,0.14);
   box-shadow: 0 30px 80px rgba(0,0,0,0.65), 0 0 40px rgba(11,92,255,0.16);
 }
+.device-frame-wrap.device-stage .device-phone {
+  border-radius: 28px;
+  padding: 14px;
+  background: linear-gradient(155deg, #182234, #0b1019);
+  border: 1.5px solid rgba(255,255,255,0.12);
+  box-shadow: 0 30px 80px rgba(0,0,0,0.55), 0 0 40px rgba(11,92,255,0.18);
+}
 .device-speaker {
   width: 90px;
   height: 18px;
@@ -643,7 +659,8 @@
   transform: translateX(-50%);
   z-index: 20;
 }
-.device-frame-wrap.device-landscape .device-speaker {
+.device-frame-wrap.device-landscape .device-speaker,
+.device-frame-wrap.device-stage .device-speaker {
   display: none;
 }
 .device-screen-box {
@@ -658,6 +675,13 @@
   aspect-ratio: 1024 / 682;
   background: #090d16;
 }
+.device-frame-wrap.device-stage .device-screen-box {
+  border-radius: 20px;
+  aspect-ratio: 3 / 4;
+  background: #0f172a;
+  box-shadow: inset 0 2px 10px rgba(0,0,0,0.25);
+  cursor: zoom-in;
+}
 .pres-screen-img {
   width: 100%;
   height: 100%;
@@ -671,6 +695,15 @@
   display: block;
   opacity: 1;
   transform: scale(1);
+}
+.pres-thumb-card.active {
+  border-color: #0b5cff !important;
+  box-shadow: 0 0 16px rgba(11,92,255,0.5);
+  transform: translateY(-2px);
+}
+.pres-thumb-card:hover:not(.active) {
+  border-color: rgba(255,255,255,0.4) !important;
+  transform: translateY(-1px);
 }
 
 /* 3D Visual in Equipment Presentation */
@@ -1249,33 +1282,55 @@
           <p class="svc-pres-sub">Quyidagi 4 ta bosqichni bosing va tizimning to‘liq ishlash ketma-ketligi hamda xaridor tajribasi bilan jonli tanishing:</p>
         </div>
 
-        <div class="svc-pres-grid landscape-grid">
-          <!-- Left: Phone / Stend Device Frame -->
-          <div class="device-frame-wrap device-landscape">
+        <div class="svc-pres-grid stage-grid">
+          <!-- Left: 3D Stage Studio Frame -->
+          <div class="device-frame-wrap device-stage">
             <div class="device-phone">
-              <div class="device-speaker"></div>
-              <div class="device-screen-box">
-                
-                <div class="equip-3d-vis" id="equip3dVis">
-                  <div style="position:absolute;top:14px;left:14px;z-index:10;display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;background:rgba(11,92,255,0.88);color:#fff;font-size:12px;font-weight:800;backdrop-filter:blur(8px);box-shadow:0 4px 12px rgba(0,0,0,0.2);">
-                    <span>🎮 Jonli 3D Kassa Stendi</span>
-                  </div>
-                  <img class="fallback-vis" src="images/services/equipment-steps/step1-full-counter.png" style="width:100%;height:100%;object-fit:cover;" alt="Kassa jihozlari montaji 3D"/>
+              <div class="stage-top-bar" style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding:2px 8px;">
+                <div style="display:flex;align-items:center;gap:6px;">
+                  <span style="width:10px;height:10px;border-radius:50%;background:#ef4444;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#eab308;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#22c55e;display:inline-block;"></span>
                 </div>
-                
-                <img id="presImg1" src="images/services/equipment-steps/step1-full-counter.png" alt="1-bosqich: 1. To‘liq Kassa Majmuasi (Turnkey POS Stend)" class="pres-screen-img active"/>
-                <img id="presImg2" src="images/services/equipment-steps/step2-monoblok-drawer.png" alt="2-bosqich: 2. Sensorli POS Monoblok va Metall Kassa Qutisi" class="pres-screen-img"/>
-                <img id="presImg3" src="images/services/equipment-steps/step3-scanner-laser.png" alt="3-bosqich: 3. 2D Shtrix-Kod Skaneri va Lazerli O‘qish" class="pres-screen-img"/>
-                <img id="presImg4" src="images/services/equipment-steps/step4-printer-tested.png" alt="4-bosqich: 4. 80mm Chek Printeri, Sinov va Rasmiy 1 Yil Kafolat" class="pres-screen-img"/>
+                <span style="font-size:11px;font-weight:700;color:#94a3b8;letter-spacing:0.5px;text-transform:uppercase;">
+                  ⚡ DashboardSale POS Hardware 3D Studio
+                </span>
+                <span style="font-size:11px;font-weight:700;color:#38bdf8;background:rgba(56,189,248,0.14);padding:2px 8px;border-radius:6px;">
+                  3D Ultra HD
+                </span>
+              </div>
+
+              <div class="device-screen-box" onclick="openLightbox()" title="Kattalashtirib ko‘rish uchun bosing">
+                <img id="presImg1" src="images/services/equipment-steps/step1-full-counter.png" alt="1-bosqich: 1. Uskunalarni Tanlash va Yetkazib Berish (Konsultatsiya, Hisob-kitob, Yetkazib berish)" class="pres-screen-img active"/>
+                <img id="presImg2" src="images/services/equipment-steps/step2-monoblok-drawer.png" alt="2-bosqich: 2. Sensorli POS Monoblok va Avtomat Pul Qutisi (15.6\" IPS FHD, Multi-touch, 1C / Billz integratsiya)" class="pres-screen-img"/>
+                <img id="presImg3" src="images/services/equipment-steps/step3-scanner-laser.png" alt="3-bosqich: 3. 2D Lazer Skaner va Markirovka (2D Lazer skaner, Markirovka (Asl Belgisi), 0.1s tezkor o‘qish)" class="pres-screen-img"/>
+                <img id="presImg4" src="images/services/equipment-steps/step4-printer-tested.png" alt="4-bosqich: 4. 80mm Chek Printeri va 1 Yil Rasmiy Kafolat (80mm avto-pichoq, 1 yil rasmiy kafolat, Doimiy servis)" class="pres-screen-img"/>
+              </div>
+
+              <!-- Mini Thumbnail Navigation Strip -->
+              <div class="pres-thumb-row" style="display:grid;grid-template-columns:repeat(4, 1fr);gap:8px;margin-top:12px;">
+                <div class="pres-thumb-card active" onclick="switchPresStep(1)" data-thumb="1" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid #0b5cff;transition:all 0.25s ease;background:#0f172a;position:relative;" title="1. Komplektatsiya">
+                  <img src="images/services/equipment-steps/step1-full-counter.png" alt="1-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">1. Uskunalar</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(2)" data-thumb="2" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="2. POS Monoblok">
+                  <img src="images/services/equipment-steps/step2-monoblok-drawer.png" alt="2-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">2. Monoblok</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(3)" data-thumb="3" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="3. 2D Skaner">
+                  <img src="images/services/equipment-steps/step3-scanner-laser.png" alt="3-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">3. Skaner</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(4)" data-thumb="4" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="4. Chek Printeri">
+                  <img src="images/services/equipment-steps/step4-printer-tested.png" alt="4-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">4. Kafolat</span>
+                </div>
               </div>
             </div>
             
-            <div style="display:flex;align-items:center;justify-content:center;gap:10px;margin-top:16px;">
-              <button id="btn3d" class="btn-toggle-vis active" onclick="setVisMode('3d')">🎮 Jonli 3D Montaj</button>
-              <button id="btnPhotos" class="btn-toggle-vis" onclick="setVisMode('photos')">📸 Bosqichma-bosqich fotolar</button>
-            </div>
-            <div style="text-align:center;margin-top:14px;font-size:13px;color:#94a3b8;font-weight:600;">
-              <span id="presStepCounter">1-bosqich / 4 ta bosqich</span>
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-top:14px;padding:0 6px;">
+              <span id="presStepCounter" style="font-size:13px;color:#94a3b8;font-weight:700;">1-bosqich / 4 ta bosqich</span>
+              <span style="font-size:12px;color:#38bdf8;cursor:pointer;font-weight:600;" onclick="openLightbox()">🔍 To‘liq ekranda ochish</span>
             </div>
           </div>
 
@@ -1285,40 +1340,40 @@
             <div class="pres-step-item active" data-step="1" onclick="switchPresStep(1)">
               <div class="pres-step-num">1</div>
               <div class="pres-step-content">
-                <h4>1. To‘liq Kassa Majmuasi (Turnkey POS Stend)</h4>
-                <p>DashboardSale tomonidan yetkazib beriladigan to‘liq kassa ish stendi: Sensorli POS Monoblok, 2D shtrix-kod skaneri, 80mm tezkor chek printeri, metall pul qutisi, montaj asboblari va sinovdan o‘tgan sertifikatlangan komplektatsiya.</p>
+                <h4>1. Uskunalarni Tanlash va Yetkazib Berish</h4>
+                <p>Do‘koningiz ehtiyojidan kelib chiqib, to‘liq kassa komplekti (POS monoblok, 2D skaner, 80mm printer va pul qutisi) hisoblab chiqiladi va xavfsiz qutilarda yetkazib beriladi.</p>
                 <div class="pres-step-tags">
-                  <span class="pres-tag">To‘liq komplektatsiya</span><span class="pres-tag">Kassa stendi</span><span class="pres-tag">Sensorli monoblok</span><span class="pres-tag">1 kunda montaj</span>
+                  <span class="pres-tag">Konsultatsiya</span><span class="pres-tag">Hisob-kitob</span><span class="pres-tag">Yetkazib berish</span>
                 </div>
               </div>
             </div>
             <div class="pres-step-item" data-step="2" onclick="switchPresStep(2)">
               <div class="pres-step-num">2</div>
               <div class="pres-step-content">
-                <h4>2. Sensorli POS Monoblok va Metall Kassa Qutisi</h4>
-                <p>15.6 dyuymli IPS Full HD sensorli ekran, yuqori tezlikdagi protsessor va Billz / Jowi / 1C savdo dasturlari. Kassa qutisi metall korpusli bo‘lib, chek chop etilishi bilan avtomatik ochiladi.</p>
+                <h4>2. Sensorli POS Monoblok va Avtomat Pul Qutisi</h4>
+                <p>15.6 dyuymli IPS Full HD sensorli ekran, tezkor multi-touch interfeys va Billz / Jowi / 1C savdo dasturlari. Kassa qutisi chek chiqishi bilan avtomatik ochiladi.</p>
                 <div class="pres-step-tags">
-                  <span class="pres-tag">15.6" IPS FHD</span><span class="pres-tag">Multi-touch</span><span class="pres-tag">Avtomat pul qutisi</span><span class="pres-tag">1C / Billz integratsiya</span>
+                  <span class="pres-tag">15.6" IPS FHD</span><span class="pres-tag">Multi-touch</span><span class="pres-tag">1C / Billz integratsiya</span><span class="pres-tag">Avtomat pul qutisi</span>
                 </div>
               </div>
             </div>
             <div class="pres-step-item" data-step="3" onclick="switchPresStep(3)">
               <div class="pres-step-num">3</div>
               <div class="pres-step-content">
-                <h4>3. 2D Shtrix-Kod Skaneri va Lazerli O‘qish</h4>
-                <p>Lazerli 1D / 2D / QR kod skaneri tovar qutisidagi shtrix-kod va Markirovka (Asl Belgisi) kodlarini 0.1 sekundda xatosiz taniydi. Mutaxassisimiz tomonidan optik burchagi va tezligi sinovdan o‘tkaziladi.</p>
+                <h4>3. 2D Lazer Skaner va Markirovka (Asl Belgisi)</h4>
+                <p>Lazerli 2D skaner tovar qutisidagi shtrix-kod va Asl Belgisi markirovkalarini 0.1 sekundda tezkor taniydi. Optik burchak va o‘qish tezligi joyida sozlanadi.</p>
                 <div class="pres-step-tags">
-                  <span class="pres-tag">2D Lazer skaner</span><span class="pres-tag">0.1s tezkor o‘qish</span><span class="pres-tag">Markirovka (Asl Belgisi)</span><span class="pres-tag">QR-kod</span>
+                  <span class="pres-tag">2D Lazer skaner</span><span class="pres-tag">Markirovka (Asl Belgisi)</span><span class="pres-tag">0.1s tezkor o‘qish</span>
                 </div>
               </div>
             </div>
             <div class="pres-step-item" data-step="4" onclick="switchPresStep(4)">
               <div class="pres-step-num">4</div>
               <div class="pres-step-content">
-                <h4>4. 80mm Chek Printeri, Sinov va Rasmiy 1 Yil Kafolat</h4>
-                <p>Avtomatik pichoqli tezkor 80mm termoprinter cheklarni bir zumda chiqaradi. Barcha apparatlar "POS - sinovdan o‘tgan / Yaroqli" tekshiruvidan o‘tadi va rasmiy 1 yillik kafolat taloni bilan topshiriladi.</p>
+                <h4>4. 80mm Chek Printeri va 1 Yil Rasmiy Kafolat</h4>
+                <p>Avto-pichoqli 80mm tezkor chek printeri ulanadi. Barcha uskunalar to‘liq sinovdan (QC pass) o‘tkazilib, muhrlangan rasmiy 1 yillik kafolat taloni bilan topshiriladi.</p>
                 <div class="pres-step-tags">
-                  <span class="pres-tag">80mm avto-pichoq</span><span class="pres-tag">Sinovdan o‘tgan (QC pass)</span><span class="pres-tag">1 yil rasmiy kafolat</span><span class="pres-tag">Doimiy servis</span>
+                  <span class="pres-tag">80mm avto-pichoq</span><span class="pres-tag">1 yil rasmiy kafolat</span><span class="pres-tag">Doimiy servis</span>
                 </div>
               </div>
             </div>
@@ -1630,11 +1685,40 @@
       const s = parseInt(item.getAttribute('data-step') || '1');
       item.classList.toggle('active', s === step);
     });
+    document.querySelectorAll('.pres-thumb-card').forEach(card => {
+      const t = parseInt(card.getAttribute('data-thumb') || '1');
+      card.classList.toggle('active', t === step);
+      if (t === step) {
+        card.style.borderColor = '#0b5cff';
+      } else {
+        card.style.borderColor = 'transparent';
+      }
+    });
     const total = document.querySelectorAll('.pres-step-item').length;
     const counter = document.getElementById('presStepCounter');
     if (counter) counter.textContent = step + '-bosqich / ' + total + ' ta bosqich';
-    if (typeof setVisMode === 'function' && step > 1) {
-      setVisMode('photos');
+  }
+
+  function openLightbox() {
+    const activeImg = document.querySelector('.pres-screen-img.active');
+    if (!activeImg) return;
+    const modal = document.getElementById('presLightboxModal');
+    const lbImg = document.getElementById('lightboxImg');
+    const lbCap = document.getElementById('lightboxCaption');
+    if (modal && lbImg && lbCap) {
+      lbImg.src = activeImg.src;
+      lbCap.textContent = activeImg.alt;
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeLightbox(e) {
+    if (e) e.stopPropagation();
+    const modal = document.getElementById('presLightboxModal');
+    if (modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
     }
   }
 
@@ -1712,23 +1796,13 @@
     if (btn) btn.textContent = next === 'dark' ? '☀️' : '🌙';
   }
   </script>
-  
-  <script src="js/dashboardsale-3d.js"></script>
-  <script>
-  function setVisMode(mode) {
-    const box3d = document.getElementById('equip3dVis');
-    const btn3d = document.getElementById('btn3d');
-    const btnPhotos = document.getElementById('btnPhotos');
-    if (mode === '3d') {
-      if (box3d) box3d.style.display = 'block';
-      if (btn3d) btn3d.classList.add('active');
-      if (btnPhotos) btnPhotos.classList.remove('active');
-    } else {
-      if (box3d) box3d.style.display = 'none';
-      if (btn3d) btn3d.classList.remove('active');
-      if (btnPhotos) btnPhotos.classList.add('active');
-    }
-  }
-  </script>
+  <!-- Lightbox Modal for Full HD Zoom -->
+  <div id="presLightboxModal" class="pres-lightbox" onclick="closeLightbox(event)" style="display:none;position:fixed;inset:0;background:rgba(5,10,20,0.88);backdrop-filter:blur(12px);z-index:9999;align-items:center;justify-content:center;padding:24px;">
+    <div style="position:relative;max-width:900px;max-height:92vh;width:100%;display:flex;flex-direction:column;align-items:center;" onclick="event.stopPropagation()">
+      <button onclick="closeLightbox(event)" style="position:absolute;top:-46px;right:0;background:rgba(255,255,255,0.18);border:1px solid rgba(255,255,255,0.3);color:#fff;font-size:22px;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.2s;" title="Yopish">✕</button>
+      <img id="lightboxImg" src="" alt="Full view" style="max-width:100%;max-height:82vh;border-radius:18px;box-shadow:0 30px 100px rgba(0,0,0,0.85), 0 0 0 1px rgba(255,255,255,0.15);object-fit:contain;"/>
+      <span id="lightboxCaption" style="margin-top:14px;color:#cbd5e1;font-size:14px;font-weight:600;text-align:center;line-height:1.4;"></span>
+    </div>
+  </div>
 </body>
 </html>
