@@ -601,8 +601,13 @@
   grid-template-columns: 1.15fr 0.85fr;
   gap: 44px;
 }
+.svc-pres-grid.stage-grid {
+  grid-template-columns: minmax(360px, 480px) 1fr;
+  gap: 48px;
+  align-items: center;
+}
 @media (max-width: 960px) {
-  .svc-pres-grid, .svc-pres-grid.landscape-grid {
+  .svc-pres-grid, .svc-pres-grid.landscape-grid, .svc-pres-grid.stage-grid {
     grid-template-columns: 1fr;
     gap: 36px;
   }
@@ -616,6 +621,10 @@
 }
 .device-frame-wrap.device-landscape {
   max-width: 640px;
+  width: 100%;
+}
+.device-frame-wrap.device-stage {
+  max-width: 500px;
   width: 100%;
 }
 .device-phone {
@@ -632,6 +641,13 @@
   border: 1.5px solid rgba(255,255,255,0.14);
   box-shadow: 0 30px 80px rgba(0,0,0,0.65), 0 0 40px rgba(11,92,255,0.16);
 }
+.device-frame-wrap.device-stage .device-phone {
+  border-radius: 28px;
+  padding: 14px;
+  background: linear-gradient(155deg, #182234, #0b1019);
+  border: 1.5px solid rgba(255,255,255,0.12);
+  box-shadow: 0 30px 80px rgba(0,0,0,0.55), 0 0 40px rgba(11,92,255,0.18);
+}
 .device-speaker {
   width: 90px;
   height: 18px;
@@ -643,7 +659,8 @@
   transform: translateX(-50%);
   z-index: 20;
 }
-.device-frame-wrap.device-landscape .device-speaker {
+.device-frame-wrap.device-landscape .device-speaker,
+.device-frame-wrap.device-stage .device-speaker {
   display: none;
 }
 .device-screen-box {
@@ -658,6 +675,13 @@
   aspect-ratio: 1024 / 682;
   background: #090d16;
 }
+.device-frame-wrap.device-stage .device-screen-box {
+  border-radius: 20px;
+  aspect-ratio: 3 / 4;
+  background: #0f172a;
+  box-shadow: inset 0 2px 10px rgba(0,0,0,0.25);
+  cursor: zoom-in;
+}
 .pres-screen-img {
   width: 100%;
   height: 100%;
@@ -671,6 +695,15 @@
   display: block;
   opacity: 1;
   transform: scale(1);
+}
+.pres-thumb-card.active {
+  border-color: #0b5cff !important;
+  box-shadow: 0 0 16px rgba(11,92,255,0.5);
+  transform: translateY(-2px);
+}
+.pres-thumb-card:hover:not(.active) {
+  border-color: rgba(255,255,255,0.4) !important;
+  transform: translateY(-1px);
 }
 
 /* 3D Visual in Equipment Presentation */
@@ -1249,23 +1282,55 @@
           <p class="svc-pres-sub">Quyidagi 4 ta bosqichni bosing va tizimning to‘liq ishlash ketma-ketligi hamda xaridor tajribasi bilan jonli tanishing:</p>
         </div>
 
-        <div class="svc-pres-grid">
-          <!-- Left: Phone / Stend Device Frame -->
-          <div class="device-frame-wrap">
+        <div class="svc-pres-grid stage-grid">
+          <!-- Left: 3D Stage Studio Frame -->
+          <div class="device-frame-wrap device-stage">
             <div class="device-phone">
-              <div class="device-speaker"></div>
-              <div class="device-screen-box">
-                
-                
-                <img id="presImg1" src="images/services/svc-accounting-bots.png" alt="1-bosqich: 1. 1C va Kassa Bazasiga Xavfsiz Ulanish" class="pres-screen-img active"/>
-                <img id="presImg2" src="images/hero/hero-analytics-dashboard.png" alt="2-bosqich: 2. Kunlik Tushum va Smena Yopilishi Xabarlari" class="pres-screen-img"/>
-                <img id="presImg3" src="images/hero/hero-pos-terminal.png" alt="3-bosqich: 3. Kam Qolgan Tovarlar va Defitsit Xabarnomasi" class="pres-screen-img"/>
-                <img id="presImg4" src="images/services/svc-accounting-bots.png" alt="4-bosqich: 4. Sof Foyda, Rentabellik va Rahbar Tahlili" class="pres-screen-img"/>
+              <div class="stage-top-bar" style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding:2px 8px;">
+                <div style="display:flex;align-items:center;gap:6px;">
+                  <span style="width:10px;height:10px;border-radius:50%;background:#ef4444;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#eab308;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#22c55e;display:inline-block;"></span>
+                </div>
+                <span style="font-size:11px;font-weight:700;color:#94a3b8;letter-spacing:0.5px;text-transform:uppercase;">
+                  📊 DashboardSale Financial Bots 3D Studio
+                </span>
+                <span style="font-size:11px;font-weight:700;color:#38bdf8;background:rgba(56,189,248,0.14);padding:2px 8px;border-radius:6px;">
+                  3D Ultra HD
+                </span>
+              </div>
+
+              <div class="device-screen-box" onclick="openLightbox()" title="Kattalashtirib ko‘rish uchun bosing">
+                <img id="presImg1" src="images/services/accounting-bot-steps/step1-1c-api-ulanish.png" alt="1-bosqich: 1. 1C va Kassa Bazasiga Xavfsiz Ulanish (1C API, Shifrlash, Xavfsiz ulanish)" class="pres-screen-img active"/>
+                <img id="presImg2" src="images/services/accounting-bot-steps/step2-kunlik-tushum-smena.png" alt="2-bosqich: 2. Kunlik Tushum va Smena Yopilishi Xabarlari (Kunlik hisobot, Kassa farqi, Naqd va karta)" class="pres-screen-img"/>
+                <img id="presImg3" src="images/services/accounting-bot-steps/step3-kam-qolgan-tovarlar.png" alt="3-bosqich: 3. Kam Qolgan Tovarlar va Defitsit Xabarnomasi (Qoldiq nazorati, Avto-ogohlantirish, Ombor)" class="pres-screen-img"/>
+                <img id="presImg4" src="images/services/accounting-bot-steps/step4-sof-foyda-rahbar.png" alt="4-bosqich: 4. Sof Foyda, Rentabellik va Rahbar Tahlili (Sof foyda, Filiallar tahlili, Rahbar hisoboti)" class="pres-screen-img"/>
+              </div>
+
+              <!-- Mini Thumbnail Navigation Strip -->
+              <div class="pres-thumb-row" style="display:grid;grid-template-columns:repeat(4, 1fr);gap:8px;margin-top:12px;">
+                <div class="pres-thumb-card active" onclick="switchPresStep(1)" data-thumb="1" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid #0b5cff;transition:all 0.25s ease;background:#0f172a;position:relative;" title="1. 1C Ulanish">
+                  <img src="images/services/accounting-bot-steps/step1-1c-api-ulanish.png" alt="1-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">1. Ulanish</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(2)" data-thumb="2" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="2. Kunlik Tushum">
+                  <img src="images/services/accounting-bot-steps/step2-kunlik-tushum-smena.png" alt="2-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">2. Tushum</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(3)" data-thumb="3" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="3. Kam Qolgan Tovarlar">
+                  <img src="images/services/accounting-bot-steps/step3-kam-qolgan-tovarlar.png" alt="3-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">3. Ombor</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(4)" data-thumb="4" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="4. Sof Foyda">
+                  <img src="images/services/accounting-bot-steps/step4-sof-foyda-rahbar.png" alt="4-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">4. Sof foyda</span>
+                </div>
               </div>
             </div>
             
-            <div style="text-align:center;margin-top:14px;font-size:13px;color:#94a3b8;font-weight:600;">
-              <span id="presStepCounter">1-bosqich / 4 ta bosqich</span>
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-top:14px;padding:0 6px;">
+              <span id="presStepCounter" style="font-size:13px;color:#94a3b8;font-weight:700;">1-bosqich / 4 ta bosqich</span>
+              <span style="font-size:12px;color:#38bdf8;cursor:pointer;font-weight:600;" onclick="openLightbox()">🔍 To‘liq ekranda ochish</span>
             </div>
           </div>
 
@@ -1276,9 +1341,9 @@
               <div class="pres-step-num">1</div>
               <div class="pres-step-content">
                 <h4>1. 1C va Kassa Bazasiga Xavfsiz Ulanish</h4>
-                <p>Moliya va savdo dasturlaringiz (1C, iiko, Billz) shifrlangan xavfsiz kanal orqali Telegram botga ulanadi.</p>
+                <p>Moliya va savdo dasturlaringiz (1C, iiko, Jowi, Billz) TLS 1.3 shifrlangan xavfsiz API kanali orqali Telegram botga ulanadi va real-vaqt ma’lumotlar bazasi himoyalanadi.</p>
                 <div class="pres-step-tags">
-                  <span class="pres-tag">1C API</span><span class="pres-tag">Shifrlash</span><span class="pres-tag">Xavfsiz ulanish</span>
+                  <span class="pres-tag">Xavfsiz ulanish</span><span class="pres-tag">Shifrlash</span><span class="pres-tag">1C API</span>
                 </div>
               </div>
             </div>
@@ -1286,7 +1351,7 @@
               <div class="pres-step-num">2</div>
               <div class="pres-step-content">
                 <h4>2. Kunlik Tushum va Smena Yopilishi Xabarlari</h4>
-                <p>Har kuni kassir smenani topshirganda yoki soat 20:00 da naqd, plastik va umumiy tushum hisoboti keladi.</p>
+                <p>Har kuni kassir smenani yopganda avtomatik Z-Hisobot shakllanadi. Naqd, plastik karta, Click/Payme tushumlari, o‘rtacha chek va kassa farqi bot orqali rahbarga yetkaziladi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Kunlik hisobot</span><span class="pres-tag">Kassa farqi</span><span class="pres-tag">Naqd va karta</span>
                 </div>
@@ -1296,7 +1361,7 @@
               <div class="pres-step-num">3</div>
               <div class="pres-step-content">
                 <h4>3. Kam Qolgan Tovarlar va Defitsit Xabarnomasi</h4>
-                <p>Do‘kondagi tovar qoldig‘i belgilangan me’yordan kamaysa, ta’minotchiga buyurtma berish uchun bot ogohlantiradi.</p>
+                <p>Do‘kon va ombordagi tovarlar belgilangan minimum qoldiqdan kamaysa, bot darhol ogohlantirish beradi va ta’minotchiga yangi partiya buyurtmasini shakllantiradi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Qoldiq nazorati</span><span class="pres-tag">Avto-ogohlantirish</span><span class="pres-tag">Ombor</span>
                 </div>
@@ -1306,7 +1371,7 @@
               <div class="pres-step-num">4</div>
               <div class="pres-step-content">
                 <h4>4. Sof Foyda, Rentabellik va Rahbar Tahlili</h4>
-                <p>Direktor uchun barcha filiallar bo‘yicha konsolidatsiyalashgan sof foyda, rentabellik va oylik taqqoslama grafiklar.</p>
+                <p>Direktor uchun barcha filiallar bo‘yicha konsolidatsiyalashgan sof foyda, rentabellik foizi, savdo dinamikasi va bitta bosishda rasmiy PDF hisobotni yuklab olish imkoniyati.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Sof foyda</span><span class="pres-tag">Filiallar tahlili</span><span class="pres-tag">Rahbar hisoboti</span>
                 </div>
@@ -1620,11 +1685,38 @@
       const s = parseInt(item.getAttribute('data-step') || '1');
       item.classList.toggle('active', s === step);
     });
+    document.querySelectorAll('.pres-thumb-card').forEach(card => {
+      const s = parseInt(card.getAttribute('data-thumb') || '1');
+      card.classList.toggle('active', s === step);
+    });
     const total = document.querySelectorAll('.pres-step-item').length;
     const counter = document.getElementById('presStepCounter');
     if (counter) counter.textContent = step + '-bosqich / ' + total + ' ta bosqich';
     if (typeof setVisMode === 'function' && step > 1) {
       setVisMode('photos');
+    }
+  }
+
+  function openLightbox() {
+    const activeImg = document.querySelector('.pres-screen-img.active');
+    if (!activeImg) return;
+    const modal = document.getElementById('presLightboxModal');
+    const lbImg = document.getElementById('lightboxImg');
+    const lbCap = document.getElementById('lightboxCaption');
+    if (modal && lbImg && lbCap) {
+      lbImg.src = activeImg.src;
+      lbCap.textContent = activeImg.alt;
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeLightbox(e) {
+    if (e) e.stopPropagation();
+    const modal = document.getElementById('presLightboxModal');
+    if (modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
     }
   }
 
@@ -1702,6 +1794,13 @@
     if (btn) btn.textContent = next === 'dark' ? '☀️' : '🌙';
   }
   </script>
-  
+  <!-- Lightbox Modal for Full HD Zoom -->
+  <div id="presLightboxModal" class="pres-lightbox" onclick="closeLightbox(event)" style="display:none;position:fixed;inset:0;background:rgba(5,10,20,0.88);backdrop-filter:blur(12px);z-index:9999;align-items:center;justify-content:center;padding:24px;">
+    <div style="position:relative;max-width:900px;max-height:92vh;width:100%;display:flex;flex-direction:column;align-items:center;" onclick="event.stopPropagation()">
+      <button onclick="closeLightbox(event)" style="position:absolute;top:-46px;right:0;background:rgba(255,255,255,0.18);border:1px solid rgba(255,255,255,0.3);color:#fff;font-size:22px;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.2s;" title="Yopish">✕</button>
+      <img id="lightboxImg" src="" alt="Full view" style="max-width:100%;max-height:82vh;border-radius:18px;box-shadow:0 30px 100px rgba(0,0,0,0.85), 0 0 0 1px rgba(255,255,255,0.15);object-fit:contain;"/>
+      <span id="lightboxCaption" style="margin-top:14px;color:#cbd5e1;font-size:14px;font-weight:600;text-align:center;line-height:1.4;"></span>
+    </div>
+  </div>
 </body>
 </html>
