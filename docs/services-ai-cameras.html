@@ -601,8 +601,13 @@
   grid-template-columns: 1.15fr 0.85fr;
   gap: 44px;
 }
+.svc-pres-grid.stage-grid {
+  grid-template-columns: minmax(360px, 480px) 1fr;
+  gap: 48px;
+  align-items: center;
+}
 @media (max-width: 960px) {
-  .svc-pres-grid, .svc-pres-grid.landscape-grid {
+  .svc-pres-grid, .svc-pres-grid.landscape-grid, .svc-pres-grid.stage-grid {
     grid-template-columns: 1fr;
     gap: 36px;
   }
@@ -616,6 +621,10 @@
 }
 .device-frame-wrap.device-landscape {
   max-width: 640px;
+  width: 100%;
+}
+.device-frame-wrap.device-stage {
+  max-width: 500px;
   width: 100%;
 }
 .device-phone {
@@ -632,6 +641,13 @@
   border: 1.5px solid rgba(255,255,255,0.14);
   box-shadow: 0 30px 80px rgba(0,0,0,0.65), 0 0 40px rgba(11,92,255,0.16);
 }
+.device-frame-wrap.device-stage .device-phone {
+  border-radius: 28px;
+  padding: 14px;
+  background: linear-gradient(155deg, #182234, #0b1019);
+  border: 1.5px solid rgba(255,255,255,0.12);
+  box-shadow: 0 30px 80px rgba(0,0,0,0.55), 0 0 40px rgba(11,92,255,0.18);
+}
 .device-speaker {
   width: 90px;
   height: 18px;
@@ -643,7 +659,8 @@
   transform: translateX(-50%);
   z-index: 20;
 }
-.device-frame-wrap.device-landscape .device-speaker {
+.device-frame-wrap.device-landscape .device-speaker,
+.device-frame-wrap.device-stage .device-speaker {
   display: none;
 }
 .device-screen-box {
@@ -658,6 +675,13 @@
   aspect-ratio: 1024 / 682;
   background: #090d16;
 }
+.device-frame-wrap.device-stage .device-screen-box {
+  border-radius: 20px;
+  aspect-ratio: 3 / 4;
+  background: #0f172a;
+  box-shadow: inset 0 2px 10px rgba(0,0,0,0.25);
+  cursor: zoom-in;
+}
 .pres-screen-img {
   width: 100%;
   height: 100%;
@@ -671,6 +695,15 @@
   display: block;
   opacity: 1;
   transform: scale(1);
+}
+.pres-thumb-card.active {
+  border-color: #0b5cff !important;
+  box-shadow: 0 0 16px rgba(11,92,255,0.5);
+  transform: translateY(-2px);
+}
+.pres-thumb-card:hover:not(.active) {
+  border-color: rgba(255,255,255,0.4) !important;
+  transform: translateY(-1px);
 }
 
 /* 3D Visual in Equipment Presentation */
@@ -1249,23 +1282,55 @@
           <p class="svc-pres-sub">Quyidagi 4 ta bosqichni bosing va tizimning to‘liq ishlash ketma-ketligi hamda xaridor tajribasi bilan jonli tanishing:</p>
         </div>
 
-        <div class="svc-pres-grid">
-          <!-- Left: Phone / Stend Device Frame -->
-          <div class="device-frame-wrap">
+        <div class="svc-pres-grid stage-grid">
+          <!-- Left: 3D Stage Studio Frame -->
+          <div class="device-frame-wrap device-stage">
             <div class="device-phone">
-              <div class="device-speaker"></div>
-              <div class="device-screen-box">
-                
-                
-                <img id="presImg1" src="images/services/svc-ai-cameras.png" alt="1-bosqich: 1. Odam Sanash va Mijozlar Oqimi (People Counter)" class="pres-screen-img active"/>
-                <img id="presImg2" src="images/hero/hero-ai-camera-heatmap.png" alt="2-bosqich: 2. Gavjum Zonalar Issiqlik Xaritasi (Heatmap)" class="pres-screen-img"/>
-                <img id="presImg3" src="images/hero/hero-pos-terminal.png" alt="3-bosqich: 3. Kassa Cheki Bilan Sinxron Video Nazorat" class="pres-screen-img"/>
-                <img id="presImg4" src="images/services/svc-ai-cameras.png" alt="4-bosqich: 4. Navbat Monitoringi va Xavfsizlik Signallari" class="pres-screen-img"/>
+              <div class="stage-top-bar" style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding:2px 8px;">
+                <div style="display:flex;align-items:center;gap:6px;">
+                  <span style="width:10px;height:10px;border-radius:50%;background:#ef4444;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#eab308;display:inline-block;"></span>
+                  <span style="width:10px;height:10px;border-radius:50%;background:#22c55e;display:inline-block;"></span>
+                </div>
+                <span style="font-size:11px;font-weight:700;color:#94a3b8;letter-spacing:0.5px;text-transform:uppercase;">
+                  🎥 DashboardSale AI Vision & Heatmap 3D Studio
+                </span>
+                <span style="font-size:11px;font-weight:700;color:#38bdf8;background:rgba(56,189,248,0.14);padding:2px 8px;border-radius:6px;">
+                  3D Ultra HD
+                </span>
+              </div>
+
+              <div class="device-screen-box" onclick="openLightbox()" title="Kattalashtirib ko‘rish uchun bosing">
+                <img id="presImg1" src="images/services/ai-camera-steps/step1-people-counter-kirish.png" alt="1-bosqich: 1. Odam Sanash va Mijozlar Oqimi (People Counter, Konversiya, Kirish-chiqish)" class="pres-screen-img active"/>
+                <img id="presImg2" src="images/services/ai-camera-steps/step2-issiqlik-xaritasi-heatmap.png" alt="2-bosqich: 2. Gavjum Zonalar Issiqlik Xaritasi (Heatmap, Rastalar tahlili, Mijoz qiziqishi)" class="pres-screen-img"/>
+                <img id="presImg3" src="images/services/ai-camera-steps/step3-kassa-chek-qalloblik-fosh.png" alt="3-bosqich: 3. Kassa Cheki Bilan Sinxron Video Nazorat (Kassa sinxroni, Chek nazorati, Qalloblik fosh)" class="pres-screen-img"/>
+                <img id="presImg4" src="images/services/ai-camera-steps/step4-navbat-monitoringi-kassa.png" alt="4-bosqich: 4. Navbat Monitoringi va Xavfsizlik Signallari (Navbat nazorati, Smart signal, 24/7 arxiv)" class="pres-screen-img"/>
+              </div>
+
+              <!-- Mini Thumbnail Navigation Strip -->
+              <div class="pres-thumb-row" style="display:grid;grid-template-columns:repeat(4, 1fr);gap:8px;margin-top:12px;">
+                <div class="pres-thumb-card active" onclick="switchPresStep(1)" data-thumb="1" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid #0b5cff;transition:all 0.25s ease;background:#0f172a;position:relative;" title="1. Odam Sanash">
+                  <img src="images/services/ai-camera-steps/step1-people-counter-kirish.png" alt="1-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">1. Oqim</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(2)" data-thumb="2" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="2. Issiqlik Xaritasi">
+                  <img src="images/services/ai-camera-steps/step2-issiqlik-xaritasi-heatmap.png" alt="2-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">2. Heatmap</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(3)" data-thumb="3" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="3. Kassa Sinxroni">
+                  <img src="images/services/ai-camera-steps/step3-kassa-chek-qalloblik-fosh.png" alt="3-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">3. Kassa</span>
+                </div>
+                <div class="pres-thumb-card" onclick="switchPresStep(4)" data-thumb="4" style="cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid transparent;transition:all 0.25s ease;background:#0f172a;position:relative;" title="4. Navbat Nazorati">
+                  <img src="images/services/ai-camera-steps/step4-navbat-monitoringi-kassa.png" alt="4-qadam" style="width:100%;aspect-ratio:3/4;object-fit:cover;display:block;"/>
+                  <span style="position:absolute;bottom:2px;left:2px;right:2px;background:rgba(0,0,0,0.75);color:#fff;font-size:9px;font-weight:700;text-align:center;padding:1px;border-radius:4px;backdrop-filter:blur(4px);display:block;">4. Navbat</span>
+                </div>
               </div>
             </div>
             
-            <div style="text-align:center;margin-top:14px;font-size:13px;color:#94a3b8;font-weight:600;">
-              <span id="presStepCounter">1-bosqich / 4 ta bosqich</span>
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-top:14px;padding:0 6px;">
+              <span id="presStepCounter" style="font-size:13px;color:#94a3b8;font-weight:700;">1-bosqich / 4 ta bosqich</span>
+              <span style="font-size:12px;color:#38bdf8;cursor:pointer;font-weight:600;" onclick="openLightbox()">🔍 To‘liq ekranda ochish</span>
             </div>
           </div>
 
@@ -1276,7 +1341,7 @@
               <div class="pres-step-num">1</div>
               <div class="pres-step-content">
                 <h4>1. Odam Sanash va Mijozlar Oqimi (People Counter)</h4>
-                <p>Do‘konga kun davomida necha kishi kirdi va ularning qanchasi xarid qildi — konversiya aniq hisoblanadi.</p>
+                <p>AI kamera do‘kon kirishidagi oqimni 99.8% aniqlikda tahlil qiladi: kun davomida necha kishi kirdi, nechtasi xarid qildi va savdo konversiyasi real vaqtda hisoblanadi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">People Counter</span><span class="pres-tag">Konversiya</span><span class="pres-tag">Kirish-chiqish</span>
                 </div>
@@ -1286,7 +1351,7 @@
               <div class="pres-step-num">2</div>
               <div class="pres-step-content">
                 <h4>2. Gavjum Zonalar Issiqlik Xaritasi (Heatmap)</h4>
-                <p>Xaridorlar do‘konning qaysi rastalari oldida ko‘proq to‘xtayotganini qizil/sariq issiqlik xaritasi ko‘rsatadi.</p>
+                <p>Xaridorlarning do‘kon ichidagi harakati va to‘xtash nuqtalari rangli issiqlik xaritasida aks etadi: qaysi javonlar (kassa oldi 58%, sut 42%) ko‘proq e’tibor tortayotgani aniqlanadi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Heatmap</span><span class="pres-tag">Rastalar tahlili</span><span class="pres-tag">Mijoz qiziqishi</span>
                 </div>
@@ -1296,7 +1361,7 @@
               <div class="pres-step-num">3</div>
               <div class="pres-step-content">
                 <h4>3. Kassa Cheki Bilan Sinxron Video Nazorat</h4>
-                <p>Kassir tovar urganida chek matni kamera videosi ustiga chiqadi — qaytarilmagan cheklar va firibgarliklar fosh bo‘ladi.</p>
+                <p>Har bir urilgan mahsulot va chek ma’lumotlari videokamera tasviri bilan sinxronlashadi. Kassir tomonidan o‘tkazib yuborilgan yoki qaytarilmagan tovarlar (qalloblik) darhol fosh qilinadi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Kassa sinxroni</span><span class="pres-tag">Chek nazorati</span><span class="pres-tag">Qalloblik fosh</span>
                 </div>
@@ -1306,7 +1371,7 @@
               <div class="pres-step-num">4</div>
               <div class="pres-step-content">
                 <h4>4. Navbat Monitoringi va Xavfsizlik Signallari</h4>
-                <p>Kassada 4 tadan ortiq odam navbatda tursa, administratsiyaga zudlik bilan xabarnoma boradi.</p>
+                <p>Kassada xaridorlar navbati belgilangan me’yordan (3 kishidan) oshganda va kutish vaqti uzayganda, tizim avtomatik tarzda do‘kon ma’muriyatiga zudlik bilan signal yuboradi.</p>
                 <div class="pres-step-tags">
                   <span class="pres-tag">Navbat nazorati</span><span class="pres-tag">Smart signal</span><span class="pres-tag">24/7 arxiv</span>
                 </div>
@@ -1620,11 +1685,40 @@
       const s = parseInt(item.getAttribute('data-step') || '1');
       item.classList.toggle('active', s === step);
     });
+    document.querySelectorAll('.pres-thumb-card').forEach(card => {
+      const t = parseInt(card.getAttribute('data-thumb') || '1');
+      card.classList.toggle('active', t === step);
+      if (t === step) {
+        card.style.borderColor = '#0b5cff';
+      } else {
+        card.style.borderColor = 'transparent';
+      }
+    });
     const total = document.querySelectorAll('.pres-step-item').length;
     const counter = document.getElementById('presStepCounter');
     if (counter) counter.textContent = step + '-bosqich / ' + total + ' ta bosqich';
-    if (typeof setVisMode === 'function' && step > 1) {
-      setVisMode('photos');
+  }
+
+  function openLightbox() {
+    const activeImg = document.querySelector('.pres-screen-img.active');
+    if (!activeImg) return;
+    const modal = document.getElementById('presLightboxModal');
+    const lbImg = document.getElementById('lightboxImg');
+    const lbCap = document.getElementById('lightboxCaption');
+    if (modal && lbImg && lbCap) {
+      lbImg.src = activeImg.src;
+      lbCap.textContent = activeImg.alt;
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeLightbox(e) {
+    if (e) e.stopPropagation();
+    const modal = document.getElementById('presLightboxModal');
+    if (modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
     }
   }
 
@@ -1702,6 +1796,13 @@
     if (btn) btn.textContent = next === 'dark' ? '☀️' : '🌙';
   }
   </script>
-  
+  <!-- Lightbox Modal for Full HD Zoom -->
+  <div id="presLightboxModal" class="pres-lightbox" onclick="closeLightbox(event)" style="display:none;position:fixed;inset:0;background:rgba(5,10,20,0.88);backdrop-filter:blur(12px);z-index:9999;align-items:center;justify-content:center;padding:24px;">
+    <div style="position:relative;max-width:900px;max-height:92vh;width:100%;display:flex;flex-direction:column;align-items:center;" onclick="event.stopPropagation()">
+      <button onclick="closeLightbox(event)" style="position:absolute;top:-46px;right:0;background:rgba(255,255,255,0.18);border:1px solid rgba(255,255,255,0.3);color:#fff;font-size:22px;width:38px;height:38px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.2s;" title="Yopish">✕</button>
+      <img id="lightboxImg" src="" alt="Full view" style="max-width:100%;max-height:82vh;border-radius:18px;box-shadow:0 30px 100px rgba(0,0,0,0.85), 0 0 0 1px rgba(255,255,255,0.15);object-fit:contain;"/>
+      <span id="lightboxCaption" style="margin-top:14px;color:#cbd5e1;font-size:14px;font-weight:600;text-align:center;line-height:1.4;"></span>
+    </div>
+  </div>
 </body>
 </html>
